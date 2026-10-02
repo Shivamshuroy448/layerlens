@@ -23,3 +23,10 @@ Specify requirements for rendering multi-layer deep learning graphs in WebGL.
 
 ---
 
+## Commit #004 - [2026-10-02 10:48:10]
+**chore: configure base requirements.txt with torch, fastapi, and pydantic**
+
+Define foundational Python package requirements for backend services.
+
+---
+
