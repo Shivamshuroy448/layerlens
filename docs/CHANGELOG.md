@@ -9,3 +9,10 @@ Draft high-level architecture overview and requirements for 3D model visualizati
 
 ---
 
+## Commit #002 - [2026-10-02 09:41:20]
+**chore: configure .gitignore for node_modules, python caches, and dist**
+
+Add ignore patterns for Python virtualenvs, build artifacts, and cache directories.
+
+---
+
