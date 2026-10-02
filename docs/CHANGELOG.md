@@ -65,3 +65,10 @@ Detail communication protocols between client scene and graph analysis backend.
 
 ---
 
+## Commit #010 - [2026-10-02 14:12:40]
+**chore: initialize project directory structure for backend and frontend**
+
+Set up standard repository folder structure for backend modules and frontend assets.
+
+---
+
