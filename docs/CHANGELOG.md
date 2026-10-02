@@ -86,3 +86,10 @@ Order Dockerfile commands to maximize wheel caching during iterative builds.
 
 ---
 
+## Commit #013 - [2026-10-02 15:58:33]
+**docs: add development environment setup instructions in README**
+
+Provide setup instructions covering Python 3.12 and Node.js prerequisite tooling.
+
+---
+
