@@ -107,3 +107,10 @@ Map transformation steps from raw model weights to visual 3D node coordinates.
 
 ---
 
+## Commit #016 - [2026-10-02 17:47:20]
+**chore: add linting and formatting configuration files**
+
+Set up project-wide formatting standards for consistent code style.
+
+---
+
