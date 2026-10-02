@@ -128,3 +128,10 @@ Configure bridge network for inter-container communication.
 
 ---
 
+## Commit #019 - [2026-10-02 19:42:35]
+**docs: update system design diagram in project brief**
+
+Refine component diagrams reflecting separation between API and 3D canvas.
+
+---
+
