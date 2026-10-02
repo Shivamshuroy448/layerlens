@@ -72,3 +72,10 @@ Set up standard repository folder structure for backend modules and frontend ass
 
 ---
 
+## Commit #011 - [2026-10-02 14:48:22]
+**docs: define initial API specification for model graph endpoints**
+
+Draft OpenAPI endpoints for health checks, graph retrieval, and dynamic analysis.
+
+---
+
