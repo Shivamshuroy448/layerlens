@@ -121,3 +121,10 @@ Outline mathematical formulas for computing intermediate activation shapes.
 
 ---
 
+## Commit #018 - [2026-10-02 19:02:10]
+**refactor: simplify docker-compose service network definitions**
+
+Configure bridge network for inter-container communication.
+
+---
+
