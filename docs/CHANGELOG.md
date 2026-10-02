@@ -100,3 +100,10 @@ Ensure environment variables have robust fallbacks for container runtimes.
 
 ---
 
+## Commit #015 - [2026-10-02 17:10:45]
+**docs: draft data flow model from Hugging Face hub to 3D scene**
+
+Map transformation steps from raw model weights to visual 3D node coordinates.
+
+---
+
