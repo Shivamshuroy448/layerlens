@@ -44,3 +44,10 @@ Exclude development files from container image context to reduce image size.
 
 ---
 
+## Commit #007 - [2026-10-02 12:28:45]
+**feat(docker): set up docker-compose.yml for local full-stack development**
+
+Define orchestrator configuration running backend API and frontend dev servers.
+
+---
+
