@@ -93,3 +93,10 @@ Provide setup instructions covering Python 3.12 and Node.js prerequisite tooling
 
 ---
 
+## Commit #014 - [2026-10-02 16:34:18]
+**chore: verify container entrypoints and environment variable defaults**
+
+Ensure environment variables have robust fallbacks for container runtimes.
+
+---
+
