@@ -114,3 +114,10 @@ Set up project-wide formatting standards for consistent code style.
 
 ---
 
+## Commit #017 - [2026-10-02 18:24:55]
+**docs: document tensor shape calculation strategies for conv and attention layers**
+
+Outline mathematical formulas for computing intermediate activation shapes.
+
+---
+
