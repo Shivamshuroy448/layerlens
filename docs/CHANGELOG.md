@@ -16,3 +16,10 @@ Add ignore patterns for Python virtualenvs, build artifacts, and cache directori
 
 ---
 
+## Commit #003 - [2026-10-02 10:14:35]
+**docs: outline requirements for 3D model visualization engine**
+
+Specify requirements for rendering multi-layer deep learning graphs in WebGL.
+
+---
+
