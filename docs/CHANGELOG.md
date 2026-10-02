@@ -51,3 +51,10 @@ Define orchestrator configuration running backend API and frontend dev servers.
 
 ---
 
+## Commit #008 - [2026-10-02 13:05:30]
+**docs: add deployment guidelines for container orchestration**
+
+Document Docker build and run commands for development and production environments.
+
+---
+
