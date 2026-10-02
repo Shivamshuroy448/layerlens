@@ -79,3 +79,10 @@ Draft OpenAPI endpoints for health checks, graph retrieval, and dynamic analysis
 
 ---
 
+## Commit #012 - [2026-10-02 15:21:05]
+**refactor: optimize Docker build layer caching for Python wheels**
+
+Order Dockerfile commands to maximize wheel caching during iterative builds.
+
+---
+
