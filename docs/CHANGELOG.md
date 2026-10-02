@@ -58,3 +58,10 @@ Document Docker build and run commands for development and production environmen
 
 ---
 
+## Commit #009 - [2026-10-02 13:39:15]
+**docs: document architecture overview and high-level component boundaries**
+
+Detail communication protocols between client scene and graph analysis backend.
+
+---
+
