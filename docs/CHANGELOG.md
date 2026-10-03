@@ -177,3 +177,10 @@ Define schema representing directed data flow edges between layers.
 
 ---
 
+## Commit #026 - [2026-10-03 11:52:12]
+**feat(schema): define ModelGraph response schema with nodes, edges, and global stats**
+
+Create root payload schema containing complete graph topology and metadata.
+
+---
+
