@@ -135,3 +135,10 @@ Refine component diagrams reflecting separation between API and 3D canvas.
 
 ---
 
+## Commit #020 - [2026-10-02 20:25:50]
+**chore: finalize Day 1 architecture specifications and container configs**
+
+Wrap up Day 1 deliverables and verify baseline container definitions.
+
+---
+
