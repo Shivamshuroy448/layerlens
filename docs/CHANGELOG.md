@@ -212,3 +212,10 @@ Lock backend dependency versions for reproducible environments.
 
 ---
 
+## Commit #031 - [2026-10-03 14:48:22]
+**feat(schema): add support for residual connection and skip edge tagging**
+
+Tag edges representing non-sequential skip connections in modern architectures.
+
+---
+
