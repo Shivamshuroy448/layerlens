@@ -268,3 +268,10 @@ Enhance error messages when orphaned edge references are detected.
 
 ---
 
+## Commit #039 - [2026-10-03 19:42:35]
+**docs(schema): document ModelGraph schema specifications for frontend consumers**
+
+Provide schema documentation and sample payloads for frontend developers.
+
+---
+
