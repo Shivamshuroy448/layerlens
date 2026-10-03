@@ -184,3 +184,10 @@ Create root payload schema containing complete graph topology and metadata.
 
 ---
 
+## Commit #027 - [2026-10-03 12:28:45]
+**feat(schema): add ModelSummary schema for total params, memory footprint, and layer breakdown**
+
+Model aggregate metrics including parameter counts and memory usage.
+
+---
+
