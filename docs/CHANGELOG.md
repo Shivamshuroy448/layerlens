@@ -198,3 +198,10 @@ Ensure all edges reference valid source and target node identifiers.
 
 ---
 
+## Commit #029 - [2026-10-03 13:39:15]
+**chore(backend): set up pyproject.toml with uv build metadata and dependencies**
+
+Configure backend packaging metadata and dependency specifications.
+
+---
+
