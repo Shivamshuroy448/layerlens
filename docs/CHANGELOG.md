@@ -219,3 +219,10 @@ Tag edges representing non-sequential skip connections in modern architectures.
 
 ---
 
+## Commit #032 - [2026-10-03 15:21:05]
+**feat(schema): define WeightDistribution metadata schema for inspector panel**
+
+Include weight statistical distribution metrics for deep layer inspection.
+
+---
+
