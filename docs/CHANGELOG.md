@@ -261,3 +261,10 @@ Verify schema rejects negative parameter counts or malformed layer types.
 
 ---
 
+## Commit #038 - [2026-10-03 19:02:10]
+**refactor(schema): refine edge connection validation logic**
+
+Enhance error messages when orphaned edge references are detected.
+
+---
+
