@@ -247,3 +247,10 @@ Add schema types representing estimated vs exact weight parameter counts.
 
 ---
 
+## Commit #036 - [2026-10-03 17:47:20]
+**feat(schema): add color mapping definitions based on layer categorization**
+
+Associate layer types with default hex color accents for visual distinction.
+
+---
+
