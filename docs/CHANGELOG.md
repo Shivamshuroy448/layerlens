@@ -226,3 +226,10 @@ Include weight statistical distribution metrics for deep layer inspection.
 
 ---
 
+## Commit #033 - [2026-10-03 15:58:33]
+**feat(schema): implement serialization helpers for graph export**
+
+Provide JSON encoders for exporting graph structures to client applications.
+
+---
+
