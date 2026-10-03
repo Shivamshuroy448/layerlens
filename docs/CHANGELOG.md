@@ -163,3 +163,10 @@ Model multi-dimensional tensor shape structures with validation rules.
 
 ---
 
+## Commit #024 - [2026-10-03 10:48:10]
+**feat(schema): add LayerNode schema with id, name, type, and parameter counts**
+
+Define schema representing individual neural network layer vertices.
+
+---
+
