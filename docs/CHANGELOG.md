@@ -240,3 +240,10 @@ Streamline schema field validators for lower serialization overhead.
 
 ---
 
+## Commit #035 - [2026-10-03 17:10:45]
+**feat(schema): add parameter count estimation helper types**
+
+Add schema types representing estimated vs exact weight parameter counts.
+
+---
+
