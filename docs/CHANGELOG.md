@@ -254,3 +254,10 @@ Associate layer types with default hex color accents for visual distinction.
 
 ---
 
+## Commit #037 - [2026-10-03 18:24:55]
+**test(schema): add initial validation tests for LayerNode schema**
+
+Verify schema rejects negative parameter counts or malformed layer types.
+
+---
+
