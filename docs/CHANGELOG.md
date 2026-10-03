@@ -170,3 +170,10 @@ Define schema representing individual neural network layer vertices.
 
 ---
 
+## Commit #025 - [2026-10-03 11:17:50]
+**feat(schema): add ConnectionEdge schema with source, target, and tensor shape metadata**
+
+Define schema representing directed data flow edges between layers.
+
+---
+
