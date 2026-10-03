@@ -205,3 +205,10 @@ Configure backend packaging metadata and dependency specifications.
 
 ---
 
+## Commit #030 - [2026-10-03 14:12:40]
+**chore(backend): pin backend requirements with fastapi, uvicorn, and accelerate**
+
+Lock backend dependency versions for reproducible environments.
+
+---
+
