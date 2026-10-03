@@ -149,3 +149,10 @@ Create schemas.py defining core data structures for graph representation.
 
 ---
 
+## Commit #022 - [2026-10-03 09:41:20]
+**feat(schema): define LayerType enum covering Conv, Linear, Attention, Norm, and Activation**
+
+Enumerate standard neural network layer types for visualization taxonomy.
+
+---
+
