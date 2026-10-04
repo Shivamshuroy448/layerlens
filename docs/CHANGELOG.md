@@ -387,3 +387,10 @@ Compute float32 activation memory required during forward inference pass.
 
 ---
 
+## Commit #056 - [2026-10-04 17:47:20]
+**docs(backend): document demo graph structure in backend README**
+
+Document offline demo graph catalog and schema representation.
+
+---
+
