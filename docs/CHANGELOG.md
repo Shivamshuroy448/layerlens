@@ -310,3 +310,10 @@ Add subsampling pooling layers downsampling feature map dimensions.
 
 ---
 
+## Commit #045 - [2026-10-04 11:17:50]
+**feat(backend): add fully connected Linear layers (120 -> 84 -> 10 classes)**
+
+Model dense classification head with sequential dimensionality reductions.
+
+---
+
