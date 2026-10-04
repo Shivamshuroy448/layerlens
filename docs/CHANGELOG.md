@@ -401,3 +401,10 @@ Structure precomputed models directory with versioned schema tags.
 
 ---
 
+## Commit #058 - [2026-10-04 19:02:10]
+**feat(backend): add validation for demo graph JSON schema compliance**
+
+Assert serialized demo graph matches Pydantic ModelGraph schema.
+
+---
+
