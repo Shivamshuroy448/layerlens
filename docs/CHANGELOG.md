@@ -352,3 +352,10 @@ Create CLI utility to export demo graph directly to filesystem.
 
 ---
 
+## Commit #051 - [2026-10-04 14:48:22]
+**feat(backend): add ResNet-18 minimal block definitions to demo catalog**
+
+Draft residual block topology demonstrating skip connection rendering.
+
+---
+
