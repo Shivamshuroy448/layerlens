@@ -366,3 +366,10 @@ Mark residual addition edges with skip flags for special rendering paths.
 
 ---
 
+## Commit #053 - [2026-10-04 15:58:33]
+**refactor(backend): improve node labeling clarity in demo generator**
+
+Use human-readable display names and concise architectural abbreviations.
+
+---
+
