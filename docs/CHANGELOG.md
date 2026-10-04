@@ -282,3 +282,10 @@ Wrap up Day 2 data modeling with full schema validation and type annotations.
 
 ---
 
+## Commit #041 - [2026-10-04 09:12:14]
+**feat(backend): scaffold demo_graphs module for offline visualization**
+
+Create demo_graphs.py providing baseline architectures for instant preview.
+
+---
+
