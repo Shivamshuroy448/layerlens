@@ -338,3 +338,10 @@ Annotate input shapes (1x32x32) through intermediate activation shapes to output
 
 ---
 
+## Commit #049 - [2026-10-04 13:39:15]
+**refactor(backend): optimize demo graph generation utility functions**
+
+Modularize layer instantiation helpers to simplify adding new demo models.
+
+---
+
