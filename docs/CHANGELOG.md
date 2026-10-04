@@ -317,3 +317,10 @@ Model dense classification head with sequential dimensionality reductions.
 
 ---
 
+## Commit #046 - [2026-10-04 11:52:12]
+**feat(backend): calculate exact parameter counts for all LeNet-5 layers**
+
+Compute analytical parameter counts: 61,706 weights and biases across all layers.
+
+---
+
