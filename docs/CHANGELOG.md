@@ -394,3 +394,10 @@ Document offline demo graph catalog and schema representation.
 
 ---
 
+## Commit #057 - [2026-10-04 18:24:55]
+**refactor(backend): organize precomputed model cache storage**
+
+Structure precomputed models directory with versioned schema tags.
+
+---
+
