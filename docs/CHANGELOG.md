@@ -359,3 +359,10 @@ Draft residual block topology demonstrating skip connection rendering.
 
 ---
 
+## Commit #052 - [2026-10-04 15:21:05]
+**feat(backend): annotate skip connections in residual demo graph**
+
+Mark residual addition edges with skip flags for special rendering paths.
+
+---
+
