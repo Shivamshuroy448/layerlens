@@ -380,3 +380,10 @@ Run graph traversal tests confirming DAG acyclic integrity.
 
 ---
 
+## Commit #055 - [2026-10-04 17:10:45]
+**feat(backend): add memory footprint calculation for LeNet activations**
+
+Compute float32 activation memory required during forward inference pass.
+
+---
+
