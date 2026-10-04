@@ -303,3 +303,10 @@ Define first convolutional stage with 6 filters and 5x5 spatial receptive field.
 
 ---
 
+## Commit #044 - [2026-10-04 10:48:10]
+**feat(backend): add AvgPool2d subsampling layers with 2x2 stride**
+
+Add subsampling pooling layers downsampling feature map dimensions.
+
+---
+
