@@ -345,3 +345,10 @@ Modularize layer instantiation helpers to simplify adding new demo models.
 
 ---
 
+## Commit #050 - [2026-10-04 14:12:40]
+**feat(backend): add helper to export demo graph to JSON format**
+
+Create CLI utility to export demo graph directly to filesystem.
+
+---
+
