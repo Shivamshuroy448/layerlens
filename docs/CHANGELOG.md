@@ -408,3 +408,10 @@ Assert serialized demo graph matches Pydantic ModelGraph schema.
 
 ---
 
+## Commit #059 - [2026-10-04 19:42:35]
+**refactor(backend): clean up demo graph generation helpers**
+
+Remove redundant variable assignments and improve code readability.
+
+---
+
