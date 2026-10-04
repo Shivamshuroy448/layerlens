@@ -324,3 +324,10 @@ Compute analytical parameter counts: 61,706 weights and biases across all layers
 
 ---
 
+## Commit #047 - [2026-10-04 12:28:45]
+**feat(backend): generate precomputed_models.json containing LeNet-5 graph**
+
+Serialize precomputed LeNet-5 graph to disk for zero-latency retrieval.
+
+---
+
