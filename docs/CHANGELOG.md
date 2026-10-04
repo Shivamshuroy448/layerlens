@@ -331,3 +331,10 @@ Serialize precomputed LeNet-5 graph to disk for zero-latency retrieval.
 
 ---
 
+## Commit #048 - [2026-10-04 13:05:30]
+**feat(backend): add tensor shape annotations across each LeNet layer boundary**
+
+Annotate input shapes (1x32x32) through intermediate activation shapes to output.
+
+---
+
