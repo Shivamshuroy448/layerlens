@@ -296,3 +296,10 @@ Build classic LeNet-5 convolutional neural network topology in code.
 
 ---
 
+## Commit #043 - [2026-10-04 10:14:35]
+**feat(backend): add Conv2d layer definitions with 5x5 kernel and ReLU activation**
+
+Define first convolutional stage with 6 filters and 5x5 spatial receptive field.
+
+---
+
