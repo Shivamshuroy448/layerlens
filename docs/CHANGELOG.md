@@ -471,3 +471,10 @@ Serve precomputed LeNet-5 graph directly from memory cache.
 
 ---
 
+## Commit #068 - [2026-10-05 13:05:30]
+**feat(api): add response caching headers for precomputed graph responses**
+
+Set Cache-Control headers to optimize client-side caching of static graphs.
+
+---
+
