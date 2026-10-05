@@ -548,3 +548,10 @@ Accelerate JSON serialization for large graph payloads.
 
 ---
 
+## Commit #079 - [2026-10-05 19:42:35]
+**feat(api): add version header to all outgoing API responses**
+
+Include X-LayerLens-Version header in HTTP responses for debugging.
+
+---
+
