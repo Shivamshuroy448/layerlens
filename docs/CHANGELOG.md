@@ -520,3 +520,10 @@ Isolate middleware configuration into reusable setup function.
 
 ---
 
+## Commit #075 - [2026-10-05 17:10:45]
+**feat(api): add API documentation metadata for Swagger UI and ReDoc**
+
+Enrich interactive API docs with route summaries and parameter descriptions.
+
+---
+
