@@ -492,3 +492,10 @@ Return standardized JSON error envelopes with actionable error messages.
 
 ---
 
+## Commit #071 - [2026-10-05 14:48:22]
+**refactor(api): clean up router import paths in backend/app/routers/__init__.py**
+
+Export router instances cleanly from routers package.
+
+---
+
