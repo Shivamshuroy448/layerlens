@@ -527,3 +527,10 @@ Enrich interactive API docs with route summaries and parameter descriptions.
 
 ---
 
+## Commit #076 - [2026-10-05 17:47:20]
+**test(api): write initial test for GET /health endpoint using TestClient**
+
+Verify health endpoint returns status 200 and expected payload structure.
+
+---
+
