@@ -506,3 +506,10 @@ Provide friendly error response when requested graph resource is not found.
 
 ---
 
+## Commit #073 - [2026-10-05 15:58:33]
+**feat(api): configure lifespan context manager for graceful startup and shutdown**
+
+Use modern FastAPI lifespan context manager for cache preloading.
+
+---
+
