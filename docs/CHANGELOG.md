@@ -485,3 +485,10 @@ Log request method, path, response status, and processing duration in millisecon
 
 ---
 
+## Commit #070 - [2026-10-05 14:12:40]
+**feat(api): implement global HTTPException handler for malformed requests**
+
+Return standardized JSON error envelopes with actionable error messages.
+
+---
+
