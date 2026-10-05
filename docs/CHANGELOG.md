@@ -457,3 +457,10 @@ Extract health endpoint into dedicated router module.
 
 ---
 
+## Commit #066 - [2026-10-05 11:52:12]
+**feat(api): scaffold graph router in backend/app/routers/graph.py**
+
+Create router for graph querying and precomputed model retrieval.
+
+---
+
