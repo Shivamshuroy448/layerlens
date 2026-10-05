@@ -429,3 +429,10 @@ Create FastAPI app instance with metadata, version, and lifecycle handlers.
 
 ---
 
+## Commit #062 - [2026-10-05 09:41:20]
+**feat(api): configure CORSMiddleware with permissive headers for local development**
+
+Allow cross-origin requests from frontend development server ports.
+
+---
+
