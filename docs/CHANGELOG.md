@@ -541,3 +541,10 @@ Assert demo endpoint returns graph containing all 10 LeNet-5 nodes.
 
 ---
 
+## Commit #078 - [2026-10-05 19:02:10]
+**refactor(api): optimize JSON response serialization using Starlette ORJSONResponse**
+
+Accelerate JSON serialization for large graph payloads.
+
+---
+
