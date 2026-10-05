@@ -478,3 +478,10 @@ Set Cache-Control headers to optimize client-side caching of static graphs.
 
 ---
 
+## Commit #069 - [2026-10-05 13:39:15]
+**feat(api): add request logging middleware for latency measurement**
+
+Log request method, path, response status, and processing duration in milliseconds.
+
+---
+
