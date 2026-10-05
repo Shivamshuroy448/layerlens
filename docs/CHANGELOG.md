@@ -464,3 +464,10 @@ Create router for graph querying and precomputed model retrieval.
 
 ---
 
+## Commit #067 - [2026-10-05 12:28:45]
+**feat(api): implement GET /api/graph/demo endpoint serving LeNet baseline**
+
+Serve precomputed LeNet-5 graph directly from memory cache.
+
+---
+
