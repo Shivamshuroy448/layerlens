@@ -513,3 +513,10 @@ Use modern FastAPI lifespan context manager for cache preloading.
 
 ---
 
+## Commit #074 - [2026-10-05 16:34:18]
+**refactor(api): modularize middleware registration into dedicated helper**
+
+Isolate middleware configuration into reusable setup function.
+
+---
+
