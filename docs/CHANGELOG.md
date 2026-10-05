@@ -450,3 +450,10 @@ Organize endpoints under versioned router prefixes for API maintainability.
 
 ---
 
+## Commit #065 - [2026-10-05 11:17:50]
+**feat(api): scaffold health router in backend/app/routers/health.py**
+
+Extract health endpoint into dedicated router module.
+
+---
+
