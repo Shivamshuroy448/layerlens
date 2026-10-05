@@ -499,3 +499,10 @@ Export router instances cleanly from routers package.
 
 ---
 
+## Commit #072 - [2026-10-05 15:21:05]
+**feat(api): add custom 404 handler with suggestions for valid model IDs**
+
+Provide friendly error response when requested graph resource is not found.
+
+---
+
