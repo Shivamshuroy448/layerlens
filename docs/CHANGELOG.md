@@ -534,3 +534,10 @@ Verify health endpoint returns status 200 and expected payload structure.
 
 ---
 
+## Commit #077 - [2026-10-05 18:24:55]
+**test(api): write test for GET /api/graph/demo verifying node count**
+
+Assert demo endpoint returns graph containing all 10 LeNet-5 nodes.
+
+---
+
