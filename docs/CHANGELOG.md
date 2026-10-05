@@ -443,3 +443,10 @@ Add health check endpoint reporting service status, version, and uptime.
 
 ---
 
+## Commit #064 - [2026-10-05 10:48:10]
+**feat(api): register API router prefix structure under /api/v1**
+
+Organize endpoints under versioned router prefixes for API maintainability.
+
+---
+
