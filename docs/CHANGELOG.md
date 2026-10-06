@@ -562,3 +562,10 @@ Verify all API endpoints operate correctly with high test coverage.
 
 ---
 
+## Commit #081 - [2026-10-06 09:12:14]
+**feat(hf): create hf_schemas.py for Hugging Face API payload types**
+
+Define Pydantic models for Hugging Face Hub API response data.
+
+---
+
