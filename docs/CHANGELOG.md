@@ -618,3 +618,10 @@ Support HF_TOKEN environment variable for accessing gated architectures.
 
 ---
 
+## Commit #089 - [2026-10-06 13:39:15]
+**feat(hf): extract model card metadata and description**
+
+Parse model tags, pipeline tag, license, and primary architectural family.
+
+---
+
