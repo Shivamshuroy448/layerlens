@@ -681,3 +681,10 @@ Normalize repository slugs and sanitize model identifiers.
 
 ---
 
+## Commit #098 - [2026-10-06 19:02:10]
+**feat(hf): add support for model revision and commit hash pinning**
+
+Support requesting specific git revisions or branch tags on Hugging Face.
+
+---
+
