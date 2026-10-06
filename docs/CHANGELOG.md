@@ -667,3 +667,10 @@ Detect HTTP 429 status and report remaining rate limit quota.
 
 ---
 
+## Commit #096 - [2026-10-06 17:47:20]
+**test(hf): add unit tests with mocked Hugging Face API responses**
+
+Verify config parser correctly extracts hyperparameters from sample configs.
+
+---
+
