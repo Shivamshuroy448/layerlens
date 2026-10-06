@@ -583,3 +583,10 @@ Parse transformer and CNN hyperparameters from config.json files.
 
 ---
 
+## Commit #084 - [2026-10-06 10:48:10]
+**feat(hf): implement Hugging Face Hub client in backend/app/hf.py**
+
+Create client class wrapping HTTP communication with huggingface.co API.
+
+---
+
