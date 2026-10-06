@@ -674,3 +674,10 @@ Verify config parser correctly extracts hyperparameters from sample configs.
 
 ---
 
+## Commit #097 - [2026-10-06 18:24:55]
+**refactor(hf): normalize model names (handle org/name vs bare names)**
+
+Normalize repository slugs and sanitize model identifiers.
+
+---
+
