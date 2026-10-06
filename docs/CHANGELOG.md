@@ -597,3 +597,10 @@ Download and parse remote config.json without fetching full model weights.
 
 ---
 
+## Commit #086 - [2026-10-06 11:52:12]
+**feat(hf): implement caching layer for downloaded HF config files**
+
+Cache downloaded configs on disk to prevent redundant external API requests.
+
+---
+
