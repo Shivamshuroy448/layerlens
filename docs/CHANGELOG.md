@@ -569,3 +569,10 @@ Define Pydantic models for Hugging Face Hub API response data.
 
 ---
 
+## Commit #082 - [2026-10-06 09:41:20]
+**feat(hf): define HFModelInfo schema with modelId, tags, downloads, and author**
+
+Model repository metadata fields retrieved from Hugging Face model cards.
+
+---
+
