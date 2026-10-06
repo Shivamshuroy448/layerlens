@@ -653,3 +653,10 @@ Use async HTTP client for concurrent fetching of multi-file repositories.
 
 ---
 
+## Commit #094 - [2026-10-06 16:34:18]
+**feat(hf): add retry mechanism with exponential backoff for HF Hub requests**
+
+Retry transient network failures with jittered exponential backoff.
+
+---
+
