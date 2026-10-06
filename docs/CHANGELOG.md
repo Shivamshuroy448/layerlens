@@ -604,3 +604,10 @@ Cache downloaded configs on disk to prevent redundant external API requests.
 
 ---
 
+## Commit #087 - [2026-10-06 12:28:45]
+**feat(hf): handle 404 errors when requested Hugging Face model does not exist**
+
+Catch repository not found errors and return clean user-facing error.
+
+---
+
