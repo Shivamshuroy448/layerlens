@@ -625,3 +625,10 @@ Parse model tags, pipeline tag, license, and primary architectural family.
 
 ---
 
+## Commit #090 - [2026-10-06 14:12:40]
+**feat(hf): parse PyTorch state_dict tensor names from index files**
+
+Inspect model.safetensors.index.json to infer layer structure from tensor keys.
+
+---
+
