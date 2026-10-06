@@ -660,3 +660,10 @@ Retry transient network failures with jittered exponential backoff.
 
 ---
 
+## Commit #095 - [2026-10-06 17:10:45]
+**feat(hf): add rate limit detection and friendly error reporting**
+
+Detect HTTP 429 status and report remaining rate limit quota.
+
+---
+
