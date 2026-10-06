@@ -590,3 +590,10 @@ Create client class wrapping HTTP communication with huggingface.co API.
 
 ---
 
+## Commit #085 - [2026-10-06 11:17:50]
+**feat(hf): add fetch_model_config function to retrieve config.json from HF Hub**
+
+Download and parse remote config.json without fetching full model weights.
+
+---
+
