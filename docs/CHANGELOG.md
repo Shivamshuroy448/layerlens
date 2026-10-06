@@ -576,3 +576,10 @@ Model repository metadata fields retrieved from Hugging Face model cards.
 
 ---
 
+## Commit #083 - [2026-10-06 10:14:35]
+**feat(hf): define HFConfig schema for architecture, hidden_size, and num_layers**
+
+Parse transformer and CNN hyperparameters from config.json files.
+
+---
+
