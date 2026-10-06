@@ -611,3 +611,10 @@ Catch repository not found errors and return clean user-facing error.
 
 ---
 
+## Commit #088 - [2026-10-06 13:05:30]
+**feat(hf): implement token-based authentication support for gated HF models**
+
+Support HF_TOKEN environment variable for accessing gated architectures.
+
+---
+
