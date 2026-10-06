@@ -632,3 +632,10 @@ Inspect model.safetensors.index.json to infer layer structure from tensor keys.
 
 ---
 
+## Commit #091 - [2026-10-06 14:48:22]
+**feat(hf): detect model type (BERT, GPT-2, LLaMA, ViT, Diffusion) from config**
+
+Classify model architecture into standardized visual family categories.
+
+---
+
