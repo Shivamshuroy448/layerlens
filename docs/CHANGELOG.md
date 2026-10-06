@@ -639,3 +639,10 @@ Classify model architecture into standardized visual family categories.
 
 ---
 
+## Commit #092 - [2026-10-06 15:21:05]
+**feat(hf): handle custom architecture configs with fallback heuristics**
+
+Implement resilient heuristic parser for non-standard Hugging Face models.
+
+---
+
