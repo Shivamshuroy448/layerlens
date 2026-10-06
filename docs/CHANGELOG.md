@@ -688,3 +688,10 @@ Support requesting specific git revisions or branch tags on Hugging Face.
 
 ---
 
+## Commit #099 - [2026-10-06 19:42:35]
+**docs(hf): document Hugging Face client configuration and error handling**
+
+Document hub integration methods and environment variable requirements.
+
+---
+
