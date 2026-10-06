@@ -646,3 +646,10 @@ Implement resilient heuristic parser for non-standard Hugging Face models.
 
 ---
 
+## Commit #093 - [2026-10-06 15:58:33]
+**refactor(hf): implement async HTTP client using httpx with connection pooling**
+
+Use async HTTP client for concurrent fetching of multi-file repositories.
+
+---
+
