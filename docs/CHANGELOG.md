@@ -772,3 +772,10 @@ Provide documentation for deploying backend as a Hugging Face Space.
 
 ---
 
+## Commit #111 - [2026-10-07 14:48:22]
+**feat: create top-level app.py entrypoint for Gradio / Spaces compatibility**
+
+Add app.py entrypoint allowing execution in standard Python host environments.
+
+---
+
