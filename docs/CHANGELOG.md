@@ -751,3 +751,10 @@ Add classification for modern open LLM architectural primitives.
 
 ---
 
+## Commit #108 - [2026-10-07 13:05:30]
+**feat(hf): calculate layer-by-layer floating-point operations (FLOPs) estimates**
+
+Estimate FLOP count per layer based on kernel sizes and tensor dimensions.
+
+---
+
