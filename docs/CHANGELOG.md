@@ -828,3 +828,10 @@ Verify 12-layer transformer encoder stack is properly resolved with meta tensors
 
 ---
 
+## Commit #119 - [2026-10-07 19:42:35]
+**docs(hf): document meta tensor architecture resolution pipeline**
+
+Explain zero-memory weight inspection architecture in technical documentation.
+
+---
+
