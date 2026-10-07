@@ -737,3 +737,10 @@ Map PyTorch module classes (Linear, Conv2d, LayerNorm) to visual LayerType enum.
 
 ---
 
+## Commit #106 - [2026-10-07 11:52:12]
+**feat(hf): support Vision Transformer (ViT) patch embedding and attention blocks**
+
+Add specialized classification for ViT patch projection and self-attention heads.
+
+---
+
