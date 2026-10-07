@@ -702,3 +702,10 @@ Complete Hub API integration and verify remote config resolution.
 
 ---
 
+## Commit #101 - [2026-10-07 09:12:14]
+**feat(hf): integrate PyTorch meta tensor resolution for lightweight inspection**
+
+Use PyTorch meta device to inspect model layers with zero memory allocation.
+
+---
+
