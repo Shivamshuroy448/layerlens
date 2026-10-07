@@ -786,3 +786,10 @@ Flatten composite container modules while preserving hierarchical path naming.
 
 ---
 
+## Commit #113 - [2026-10-07 15:58:33]
+**feat(hf): map PyTorch forward pass tensors into directed acyclic graph (DAG)**
+
+Track tensor dependencies to generate accurate edge connections between layers.
+
+---
+
