@@ -814,3 +814,10 @@ Fall back to config-driven graph generation when PyTorch module cannot load.
 
 ---
 
+## Commit #117 - [2026-10-07 18:24:55]
+**test(hf): test meta tensor loading for torchvision ResNet-18**
+
+Verify meta device accurately extracts 18-layer residual graph structure.
+
+---
+
