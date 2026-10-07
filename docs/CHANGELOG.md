@@ -793,3 +793,10 @@ Track tensor dependencies to generate accurate edge connections between layers.
 
 ---
 
+## Commit #114 - [2026-10-07 16:34:18]
+**feat(hf): prune redundant identity and dropout nodes for clean visualization**
+
+Filter non-operational pass-through layers to maintain clear visual graphs.
+
+---
+
