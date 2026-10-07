@@ -730,3 +730,10 @@ Query meta tensor shapes to calculate parameter counts and tensor dimensions.
 
 ---
 
+## Commit #105 - [2026-10-07 11:17:50]
+**feat(hf): classify submodules into LayerType categories**
+
+Map PyTorch module classes (Linear, Conv2d, LayerNorm) to visual LayerType enum.
+
+---
+
