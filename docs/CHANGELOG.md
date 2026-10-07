@@ -807,3 +807,10 @@ Explicitly release meta module references to maintain zero memory footprint.
 
 ---
 
+## Commit #116 - [2026-10-07 17:47:20]
+**feat(hf): add fallback parser for pure config-driven graph reconstruction**
+
+Fall back to config-driven graph generation when PyTorch module cannot load.
+
+---
+
