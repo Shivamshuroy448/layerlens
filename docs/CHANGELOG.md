@@ -800,3 +800,10 @@ Filter non-operational pass-through layers to maintain clear visual graphs.
 
 ---
 
+## Commit #115 - [2026-10-07 17:10:45]
+**refactor(hf): optimize memory cleanup after meta tensor resolution**
+
+Explicitly release meta module references to maintain zero memory footprint.
+
+---
+
