@@ -779,3 +779,10 @@ Add app.py entrypoint allowing execution in standard Python host environments.
 
 ---
 
+## Commit #112 - [2026-10-07 15:21:05]
+**refactor(hf): handle nested Sequential and ModuleList containers**
+
+Flatten composite container modules while preserving hierarchical path naming.
+
+---
+
