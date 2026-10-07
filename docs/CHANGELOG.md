@@ -723,3 +723,10 @@ Traverse submodule tree to build hierarchical layer graph representation.
 
 ---
 
+## Commit #104 - [2026-10-07 10:48:10]
+**feat(hf): compute parameter shapes and sizes without downloading weights**
+
+Query meta tensor shapes to calculate parameter counts and tensor dimensions.
+
+---
+
