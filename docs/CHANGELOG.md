@@ -744,3 +744,10 @@ Add specialized classification for ViT patch projection and self-attention heads
 
 ---
 
+## Commit #107 - [2026-10-07 12:28:45]
+**feat(hf): support LLaMA / Mistral RMSNorm and RoPE attention modules**
+
+Add classification for modern open LLM architectural primitives.
+
+---
+
