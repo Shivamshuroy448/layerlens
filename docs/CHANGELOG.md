@@ -758,3 +758,10 @@ Estimate FLOP count per layer based on kernel sizes and tensor dimensions.
 
 ---
 
+## Commit #109 - [2026-10-07 13:39:15]
+**feat(docker): write backend/Dockerfile with PyTorch CPU-only wheels**
+
+Configure lightweight Dockerfile utilizing cpu-only PyTorch wheels to save disk.
+
+---
+
