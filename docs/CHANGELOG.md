@@ -821,3 +821,10 @@ Verify meta device accurately extracts 18-layer residual graph structure.
 
 ---
 
+## Commit #118 - [2026-10-07 19:02:10]
+**test(hf): test meta tensor loading for bert-base-uncased**
+
+Verify 12-layer transformer encoder stack is properly resolved with meta tensors.
+
+---
+
