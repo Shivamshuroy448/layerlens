@@ -716,3 +716,10 @@ Instantiate neural network modules on meta device without downloading weights.
 
 ---
 
+## Commit #103 - [2026-10-07 10:14:35]
+**feat(hf): extract module hierarchy (named_modules) from instantiated meta models**
+
+Traverse submodule tree to build hierarchical layer graph representation.
+
+---
+
