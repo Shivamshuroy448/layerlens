@@ -709,3 +709,10 @@ Use PyTorch meta device to inspect model layers with zero memory allocation.
 
 ---
 
+## Commit #102 - [2026-10-07 09:41:20]
+**feat(hf): use accelerate init_empty_weights context to load models with 0 RAM**
+
+Instantiate neural network modules on meta device without downloading weights.
+
+---
+
