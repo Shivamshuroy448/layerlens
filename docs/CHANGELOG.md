@@ -765,3 +765,10 @@ Configure lightweight Dockerfile utilizing cpu-only PyTorch wheels to save disk.
 
 ---
 
+## Commit #110 - [2026-10-07 14:12:40]
+**docs(backend): write backend/README_SPACE.md for Hugging Face Spaces**
+
+Provide documentation for deploying backend as a Hugging Face Space.
+
+---
+
