@@ -926,3 +926,10 @@ Provide fallback generic node styling for unrecognized custom operations.
 
 ---
 
+## Commit #133 - [2026-10-08 15:58:33]
+**feat(api): add detailed timing metrics to analyze response payload**
+
+Include duration of each analysis phase in response metadata.
+
+---
+
