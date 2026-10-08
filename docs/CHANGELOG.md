@@ -912,3 +912,10 @@ Provide parameter count percentages highlighting largest layers in model.
 
 ---
 
+## Commit #131 - [2026-10-08 14:48:22]
+**feat(api): implement caching of analyzed graphs in precomputed directory**
+
+Persist analyzed graphs to disk cache to accelerate repeated requests.
+
+---
+
