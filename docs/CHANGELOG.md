@@ -849,3 +849,10 @@ Create analyze router accepting model identifiers and analysis options.
 
 ---
 
+## Commit #122 - [2026-10-08 09:41:20]
+**feat(api): accept AnalyzeRequest with model_id, input_shape, and options**
+
+Define request schema with optional custom input shapes and precision settings.
+
+---
+
