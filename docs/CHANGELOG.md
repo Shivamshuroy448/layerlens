@@ -968,3 +968,10 @@ Verify 404 response is returned with descriptive error message.
 
 ---
 
+## Commit #139 - [2026-10-08 19:42:35]
+**refactor(api): clean up analyze router imports and schema references**
+
+Organize router imports and ensure strict type hint annotations.
+
+---
+
