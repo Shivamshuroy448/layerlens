@@ -863,3 +863,10 @@ Verify input shape matches expected spatial or sequence dimension constraints.
 
 ---
 
+## Commit #124 - [2026-10-08 10:48:10]
+**feat(api): propagate tensor shapes through convolutional layers**
+
+Compute output feature map dimensions based on kernel, stride, and padding.
+
+---
+
