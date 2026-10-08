@@ -933,3 +933,10 @@ Include duration of each analysis phase in response metadata.
 
 ---
 
+## Commit #134 - [2026-10-08 16:34:18]
+**feat(api): add validation to reject excessively large or dangerous model requests**
+
+Enforce safety bounds on model size and recursion depth.
+
+---
+
