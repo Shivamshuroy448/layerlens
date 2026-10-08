@@ -947,3 +947,10 @@ Give actionable guidance when a model repository lacks configuration files.
 
 ---
 
+## Commit #136 - [2026-10-08 17:47:20]
+**feat(api): add support for analyzing models by direct architecture name**
+
+Allow users to analyze standard architectures like resnet50 without repo prefix.
+
+---
+
