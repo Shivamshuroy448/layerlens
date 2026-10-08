@@ -884,3 +884,10 @@ Track Q, K, V tensor split and merge shapes in multi-head attention blocks.
 
 ---
 
+## Commit #127 - [2026-10-08 12:28:45]
+**feat(api): handle normalization layer tensor preservation**
+
+Ensure LayerNorm and BatchNorm layers preserve input tensor dimensionality.
+
+---
+
