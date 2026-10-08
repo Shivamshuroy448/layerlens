@@ -954,3 +954,10 @@ Allow users to analyze standard architectures like resnet50 without repo prefix.
 
 ---
 
+## Commit #137 - [2026-10-08 18:24:55]
+**test(api): test POST /api/analyze with mock BERT configuration**
+
+Verify analyze endpoint returns valid graph with 12 transformer encoder blocks.
+
+---
+
