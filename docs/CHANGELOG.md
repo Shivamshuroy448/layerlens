@@ -891,3 +891,10 @@ Ensure LayerNorm and BatchNorm layers preserve input tensor dimensionality.
 
 ---
 
+## Commit #128 - [2026-10-08 13:05:30]
+**feat(api): calculate activation memory footprint per layer**
+
+Compute memory in megabytes required to store layer activations during inference.
+
+---
+
