@@ -898,3 +898,10 @@ Compute memory in megabytes required to store layer activations during inference
 
 ---
 
+## Commit #129 - [2026-10-08 13:39:15]
+**feat(api): assemble comprehensive ModelGraph response with node coordinates**
+
+Package computed nodes, edges, and summary metrics into response payload.
+
+---
+
