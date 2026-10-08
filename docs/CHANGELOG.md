@@ -961,3 +961,10 @@ Verify analyze endpoint returns valid graph with 12 transformer encoder blocks.
 
 ---
 
+## Commit #138 - [2026-10-08 19:02:10]
+**test(api): test POST /api/analyze error handling for invalid model ID**
+
+Verify 404 response is returned with descriptive error message.
+
+---
+
