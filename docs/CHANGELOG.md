@@ -919,3 +919,10 @@ Persist analyzed graphs to disk cache to accelerate repeated requests.
 
 ---
 
+## Commit #132 - [2026-10-08 15:21:05]
+**refactor(api): handle unsupported or exotic layers gracefully with generic node**
+
+Provide fallback generic node styling for unrecognized custom operations.
+
+---
+
