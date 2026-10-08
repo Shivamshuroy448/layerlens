@@ -856,3 +856,10 @@ Define request schema with optional custom input shapes and precision settings.
 
 ---
 
+## Commit #123 - [2026-10-08 10:14:35]
+**feat(api): parse and validate custom input shape dimensions**
+
+Verify input shape matches expected spatial or sequence dimension constraints.
+
+---
+
