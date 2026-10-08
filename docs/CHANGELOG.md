@@ -842,3 +842,10 @@ Verify meta tensor resolution operates reliably across CNNs and Transformers.
 
 ---
 
+## Commit #121 - [2026-10-08 09:12:14]
+**feat(api): implement POST /api/analyze endpoint in backend/app/routers/analyze.py**
+
+Create analyze router accepting model identifiers and analysis options.
+
+---
+
