@@ -940,3 +940,10 @@ Enforce safety bounds on model size and recursion depth.
 
 ---
 
+## Commit #135 - [2026-10-08 17:10:45]
+**refactor(api): improve error messages when model config cannot be resolved**
+
+Give actionable guidance when a model repository lacks configuration files.
+
+---
+
