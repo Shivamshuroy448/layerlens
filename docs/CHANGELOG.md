@@ -877,3 +877,10 @@ Compute projection output dimensions across dense matrix multiplications.
 
 ---
 
+## Commit #126 - [2026-10-08 11:52:12]
+**feat(api): compute attention head dimension expansions and contractions**
+
+Track Q, K, V tensor split and merge shapes in multi-head attention blocks.
+
+---
+
