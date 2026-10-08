@@ -905,3 +905,10 @@ Package computed nodes, edges, and summary metrics into response payload.
 
 ---
 
+## Commit #130 - [2026-10-08 14:12:40]
+**feat(api): return layer-by-layer parameter statistics and distribution**
+
+Provide parameter count percentages highlighting largest layers in model.
+
+---
+
