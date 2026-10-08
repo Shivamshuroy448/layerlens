@@ -870,3 +870,10 @@ Compute output feature map dimensions based on kernel, stride, and padding.
 
 ---
 
+## Commit #125 - [2026-10-08 11:17:50]
+**feat(api): propagate tensor shapes through linear and projection layers**
+
+Compute projection output dimensions across dense matrix multiplications.
+
+---
+
