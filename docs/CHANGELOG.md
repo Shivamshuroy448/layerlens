@@ -1066,3 +1066,10 @@ Verify fallback to pure config parsing when weights index is absent.
 
 ---
 
+## Commit #153 - [2026-10-09 15:58:33]
+**chore(backend): generate backend/uv.lock for reproducible virtual environments**
+
+Lock all backend dependency hashes for deterministic environment creation.
+
+---
+
