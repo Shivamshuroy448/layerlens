@@ -1024,3 +1024,10 @@ Verify transformer graph generator produces self-attention and MLP blocks.
 
 ---
 
+## Commit #147 - [2026-10-09 12:28:45]
+**feat(test): test analyze router with synthetic CNN config**
+
+Verify CNN graph generator calculates downsampled spatial dimensions correctly.
+
+---
+
