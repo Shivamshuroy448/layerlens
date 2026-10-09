@@ -1059,3 +1059,10 @@ Verify 403 / 401 responses from Hub are translated to clear user feedback.
 
 ---
 
+## Commit #152 - [2026-10-09 15:21:05]
+**feat(test): test edge case where model has no weights index file**
+
+Verify fallback to pure config parsing when weights index is absent.
+
+---
+
