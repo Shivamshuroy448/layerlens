@@ -989,3 +989,10 @@ Initialize test_graph.py testing graph querying and demo endpoints.
 
 ---
 
+## Commit #142 - [2026-10-09 09:41:20]
+**feat(test): test GET /api/graph/demo verifies LeNet node and edge counts**
+
+Assert demo endpoint returns 10 nodes and 9 edges matching LeNet-5.
+
+---
+
