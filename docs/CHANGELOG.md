@@ -1073,3 +1073,10 @@ Lock all backend dependency hashes for deterministic environment creation.
 
 ---
 
+## Commit #154 - [2026-10-09 16:34:18]
+**chore(test): configure pytest.ini with test markers and coverage thresholds**
+
+Set up pytest configuration with test discovery rules and warnings filter.
+
+---
+
