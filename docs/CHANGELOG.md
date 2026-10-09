@@ -1108,3 +1108,10 @@ Document pytest invocation commands and coverage report generation.
 
 ---
 
+## Commit #159 - [2026-10-09 19:42:35]
+**refactor(backend): clean up unused test utilities and fixtures**
+
+Remove dead code and unused imports across backend test files.
+
+---
+
