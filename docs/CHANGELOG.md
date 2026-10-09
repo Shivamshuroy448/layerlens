@@ -1087,3 +1087,10 @@ Use pytest session-scoped TestClient fixture to reduce test runtimes.
 
 ---
 
+## Commit #156 - [2026-10-09 17:47:20]
+**refactor(backend): fix Python 3.12 future annotations across all backend modules**
+
+Add from __future__ import annotations across backend files for 3.12 syntax.
+
+---
+
