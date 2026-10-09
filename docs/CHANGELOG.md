@@ -1101,3 +1101,10 @@ Execute all 10 backend tests confirming zero failures or regressions.
 
 ---
 
+## Commit #158 - [2026-10-09 19:02:10]
+**docs(backend): add test execution commands to backend documentation**
+
+Document pytest invocation commands and coverage report generation.
+
+---
+
