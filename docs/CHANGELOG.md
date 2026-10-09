@@ -1052,3 +1052,10 @@ Ensure test suite executes completely offline without external network calls.
 
 ---
 
+## Commit #151 - [2026-10-09 14:48:22]
+**feat(test): test handling of gated or private Hugging Face repositories**
+
+Verify 403 / 401 responses from Hub are translated to clear user feedback.
+
+---
+
