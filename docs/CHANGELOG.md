@@ -1017,3 +1017,10 @@ Initialize test_analyze.py verifying dynamic model analysis pipeline.
 
 ---
 
+## Commit #146 - [2026-10-09 11:52:12]
+**feat(test): test analyze router with synthetic Transformer config**
+
+Verify transformer graph generator produces self-attention and MLP blocks.
+
+---
+
