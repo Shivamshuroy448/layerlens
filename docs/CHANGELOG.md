@@ -1038,3 +1038,10 @@ Confirm invalid tensor shapes trigger 422 Unprocessable Entity responses.
 
 ---
 
+## Commit #149 - [2026-10-09 13:39:15]
+**feat(test): test memory footprint calculations for float32 and float16**
+
+Verify precision multipliers correctly adjust activation memory calculations.
+
+---
+
