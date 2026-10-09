@@ -1031,3 +1031,10 @@ Verify CNN graph generator calculates downsampled spatial dimensions correctly.
 
 ---
 
+## Commit #148 - [2026-10-09 13:05:30]
+**feat(test): test tensor shape validation on invalid input shapes**
+
+Confirm invalid tensor shapes trigger 422 Unprocessable Entity responses.
+
+---
+
