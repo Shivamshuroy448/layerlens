@@ -1185,3 +1185,10 @@ Define semantic color tokens for Conv, Attention, Linear, and Normalization.
 
 ---
 
+## Commit #170 - [2026-10-10 14:12:40]
+**feat(frontend): configure Vite development server proxy for backend API**
+
+Proxy /api requests to local backend port during frontend development.
+
+---
+
