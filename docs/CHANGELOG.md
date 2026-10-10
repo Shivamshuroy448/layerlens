@@ -1136,3 +1136,10 @@ Add Three.js, React Three Fiber, Lucide icons, and Tailwind dependencies.
 
 ---
 
+## Commit #163 - [2026-10-10 10:14:35]
+**chore(frontend): set up tsconfig.json with strict TypeScript checks**
+
+Enable strict null checks, unused variable warnings, and JSX settings.
+
+---
+
