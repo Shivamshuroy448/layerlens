@@ -1178,3 +1178,10 @@ Write base CSS stylesheet with color variables, dark background, and glow effect
 
 ---
 
+## Commit #169 - [2026-10-10 13:39:15]
+**feat(frontend): set up CSS custom variables for neural network layer colors**
+
+Define semantic color tokens for Conv, Attention, Linear, and Normalization.
+
+---
+
