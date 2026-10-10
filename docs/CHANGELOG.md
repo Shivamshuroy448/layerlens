@@ -1220,3 +1220,10 @@ Define frosted glass backdrop-blur and border highlights in CSS.
 
 ---
 
+## Commit #175 - [2026-10-10 17:10:45]
+**feat(frontend): create custom scrollbar and canvas container CSS classes**
+
+Style scrollbars to integrate cleanly with dark technical aesthetic.
+
+---
+
