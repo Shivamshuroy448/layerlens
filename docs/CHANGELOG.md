@@ -1150,3 +1150,10 @@ Configure Vite build configuration with React plugin and @ alias mapping.
 
 ---
 
+## Commit #165 - [2026-10-10 11:17:50]
+**feat(frontend): create frontend/index.html with responsive viewport meta**
+
+Write HTML entrypoint with responsive viewport, favicon, and title.
+
+---
+
