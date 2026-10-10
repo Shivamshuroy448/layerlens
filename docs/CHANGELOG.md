@@ -1157,3 +1157,10 @@ Write HTML entrypoint with responsive viewport, favicon, and title.
 
 ---
 
+## Commit #166 - [2026-10-10 11:52:12]
+**feat(frontend): add Google Fonts inter and jetbrains-mono typography**
+
+Import Inter for modern UI and JetBrains Mono for tensor dimension display.
+
+---
+
