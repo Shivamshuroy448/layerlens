@@ -1199,3 +1199,10 @@ Set up code formatting and linting rules for frontend codebase.
 
 ---
 
+## Commit #172 - [2026-10-10 15:21:05]
+**feat(frontend): create minimal React root mount in frontend/src/main.tsx**
+
+Mount React root component into DOM element with StrictMode enabled.
+
+---
+
