@@ -1248,3 +1248,10 @@ Target production builds to dist/ folder for static web hosting.
 
 ---
 
+## Commit #179 - [2026-10-10 19:42:35]
+**docs(frontend): add frontend development setup notes to documentation**
+
+Document npm run dev and npm run build commands for frontend developers.
+
+---
+
