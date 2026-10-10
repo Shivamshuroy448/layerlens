@@ -1192,3 +1192,10 @@ Proxy /api requests to local backend port during frontend development.
 
 ---
 
+## Commit #171 - [2026-10-10 14:48:22]
+**chore(frontend): configure ESLint and Prettier for frontend formatting**
+
+Set up code formatting and linting rules for frontend codebase.
+
+---
+
