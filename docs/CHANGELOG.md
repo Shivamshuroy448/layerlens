@@ -1171,3 +1171,10 @@ Set up Tailwind configuration with custom dark theme colors and radii.
 
 ---
 
+## Commit #168 - [2026-10-10 13:05:30]
+**feat(frontend): add frontend/src/index.css with dark theme tokens and glow utilities**
+
+Write base CSS stylesheet with color variables, dark background, and glow effects.
+
+---
+
