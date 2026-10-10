@@ -1241,3 +1241,10 @@ Ensure all npm packages install without dependency version conflicts.
 
 ---
 
+## Commit #178 - [2026-10-10 19:02:10]
+**chore(frontend): configure build output directory to dist/**
+
+Target production builds to dist/ folder for static web hosting.
+
+---
+
