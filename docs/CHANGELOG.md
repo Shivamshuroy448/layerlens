@@ -1381,3 +1381,10 @@ Ensure 1:1 property compatibility between frontend interfaces and backend JSON.
 
 ---
 
+## Commit #198 - [2026-10-11 19:02:10]
+**feat(frontend): add utility types for API request states and loading flags**
+
+Add loading, error, and success state discrimination types.
+
+---
+
