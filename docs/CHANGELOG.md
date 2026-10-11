@@ -1283,3 +1283,10 @@ Model 3D connection paths with curve control points and connection types.
 
 ---
 
+## Commit #184 - [2026-10-11 10:48:10]
+**feat(frontend): define LayerType enum matching backend layer classifications**
+
+Define TypeScript enum covering Conv2D, Linear, Attention, Norm, and Pool.
+
+---
+
