@@ -1325,3 +1325,10 @@ Create demoGraph.ts containing complete offline fallback data.
 
 ---
 
+## Commit #190 - [2026-10-11 14:12:40]
+**feat(frontend): populate demoGraph with high-fidelity LeNet-5 architecture**
+
+Define 10 sequential LeNet-5 layers with realistic 3D coordinates.
+
+---
+
