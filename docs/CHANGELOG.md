@@ -1269,3 +1269,10 @@ Create types.ts containing all client-side data contracts and interfaces.
 
 ---
 
+## Commit #182 - [2026-10-11 09:41:20]
+**feat(frontend): define Node3D interface for spatial 3D coordinates and dimensions**
+
+Model 3D position (x, y, z), rotation, scale, and bounding box geometry.
+
+---
+
