@@ -1276,3 +1276,10 @@ Model 3D position (x, y, z), rotation, scale, and bounding box geometry.
 
 ---
 
+## Commit #183 - [2026-10-11 10:14:35]
+**feat(frontend): define Edge3D interface with spline points and tension parameters**
+
+Model 3D connection paths with curve control points and connection types.
+
+---
+
