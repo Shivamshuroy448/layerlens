@@ -1332,3 +1332,10 @@ Define 10 sequential LeNet-5 layers with realistic 3D coordinates.
 
 ---
 
+## Commit #191 - [2026-10-11 14:48:22]
+**feat(frontend): add detailed layer parameter metrics to demoGraph nodes**
+
+Include exact parameter counts and weight dimensions for each LeNet layer.
+
+---
+
