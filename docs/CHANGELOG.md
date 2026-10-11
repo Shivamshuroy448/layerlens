@@ -1374,3 +1374,10 @@ Run tsc --noEmit to verify complete type safety across all frontend types.
 
 ---
 
+## Commit #197 - [2026-10-11 18:24:55]
+**refactor(frontend): align frontend types with backend Pydantic schemas**
+
+Ensure 1:1 property compatibility between frontend interfaces and backend JSON.
+
+---
+
