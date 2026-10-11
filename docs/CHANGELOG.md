@@ -1346,3 +1346,10 @@ Annotate data flow edges with activation tensor dimensions.
 
 ---
 
+## Commit #193 - [2026-10-11 15:58:33]
+**refactor(frontend): export helper type guards for LayerType categorization**
+
+Implement TypeScript type guard functions for layer classification.
+
+---
+
