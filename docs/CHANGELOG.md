@@ -1297,3 +1297,10 @@ Define client-side model graph representation holding nodes and connections.
 
 ---
 
+## Commit #186 - [2026-10-11 11:52:12]
+**feat(frontend): define InspectorState interface for selected node inspection**
+
+Model selection state, hover state, and side-panel inspection data.
+
+---
+
