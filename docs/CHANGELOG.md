@@ -1290,3 +1290,10 @@ Define TypeScript enum covering Conv2D, Linear, Attention, Norm, and Pool.
 
 ---
 
+## Commit #185 - [2026-10-11 11:17:50]
+**feat(frontend): define ModelGraph interface for complete graph payloads**
+
+Define client-side model graph representation holding nodes and connections.
+
+---
+
