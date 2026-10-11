@@ -1304,3 +1304,10 @@ Model selection state, hover state, and side-panel inspection data.
 
 ---
 
+## Commit #187 - [2026-10-11 12:28:45]
+**feat(frontend): define CameraMode and ViewMode union types**
+
+Define view mode types for 3D spatial canvas vs 2D architecture diagram.
+
+---
+
