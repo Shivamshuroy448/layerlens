@@ -1311,3 +1311,10 @@ Define view mode types for 3D spatial canvas vs 2D architecture diagram.
 
 ---
 
+## Commit #188 - [2026-10-11 13:05:30]
+**feat(frontend): define ModelMeta interface for Hugging Face metadata display**
+
+Model repository metadata fields including parameter counts and license.
+
+---
+
