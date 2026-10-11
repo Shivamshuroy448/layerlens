@@ -1388,3 +1388,10 @@ Add loading, error, and success state discrimination types.
 
 ---
 
+## Commit #199 - [2026-10-11 19:42:35]
+**docs(frontend): document TypeScript type contracts in comments**
+
+Add JSDoc documentation comments explaining each interface field.
+
+---
+
