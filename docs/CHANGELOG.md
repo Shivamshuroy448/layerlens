@@ -1360,3 +1360,10 @@ Map each layer category to dedicated primary, glow, and border colors.
 
 ---
 
+## Commit #195 - [2026-10-11 17:10:45]
+**feat(frontend): define KnowledgeCard interface for architecture explanations**
+
+Define structure for educational explanations embedded in the inspector panel.
+
+---
+
