@@ -1339,3 +1339,10 @@ Include exact parameter counts and weight dimensions for each LeNet layer.
 
 ---
 
+## Commit #192 - [2026-10-11 15:21:05]
+**feat(frontend): add realistic tensor shapes to demoGraph connections**
+
+Annotate data flow edges with activation tensor dimensions.
+
+---
+
