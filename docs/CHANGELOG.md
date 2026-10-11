@@ -1353,3 +1353,10 @@ Implement TypeScript type guard functions for layer classification.
 
 ---
 
+## Commit #194 - [2026-10-11 16:34:18]
+**feat(frontend): define ColorPalette mapping for each layer family**
+
+Map each layer category to dedicated primary, glow, and border colors.
+
+---
+
