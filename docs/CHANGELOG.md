@@ -1318,3 +1318,10 @@ Model repository metadata fields including parameter counts and license.
 
 ---
 
+## Commit #189 - [2026-10-11 13:39:15]
+**feat(frontend): create frontend/src/data/demoGraph.ts as offline fallback**
+
+Create demoGraph.ts containing complete offline fallback data.
+
+---
+
