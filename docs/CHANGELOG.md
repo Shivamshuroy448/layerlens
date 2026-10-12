@@ -1458,3 +1458,10 @@ Implement async graph loader falling back to offline demo graph on error.
 
 ---
 
+## Commit #209 - [2026-10-12 13:39:15]
+**feat(store): implement search and filter state for layer highlighting**
+
+Add search query state filtering layers by name or operation type.
+
+---
+
