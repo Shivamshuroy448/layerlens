@@ -1416,3 +1416,10 @@ Define comprehensive application state interface with state fields and actions.
 
 ---
 
+## Commit #203 - [2026-10-12 10:14:35]
+**feat(store): implement setModel action to switch between active models**
+
+Add action updating active model ID and initiating graph fetching.
+
+---
+
