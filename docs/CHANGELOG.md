@@ -1486,3 +1486,10 @@ Explain 2D spatial convolution, kernel sliding, stride, and padding.
 
 ---
 
+## Commit #213 - [2026-10-12 15:58:33]
+**feat(knowledge): document Multi-Head Self-Attention, QKV projections, and scaling**
+
+Explain scaled dot-product attention, query-key interaction, and values.
+
+---
+
