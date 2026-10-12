@@ -1451,3 +1451,10 @@ Add action switching camera viewpoint between perspective, top, and front.
 
 ---
 
+## Commit #208 - [2026-10-12 13:05:30]
+**feat(store): add async loadModelGraph action with API fetch and demo fallback**
+
+Implement async graph loader falling back to offline demo graph on error.
+
+---
+
