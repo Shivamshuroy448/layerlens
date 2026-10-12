@@ -1472,3 +1472,10 @@ Add action allowing users to toggle particle animations to save GPU power.
 
 ---
 
+## Commit #211 - [2026-10-12 14:48:22]
+**feat(knowledge): create frontend/src/knowledge.ts with neural network encyclopedic guide**
+
+Create knowledge.ts providing educational explanations for neural network concepts.
+
+---
+
