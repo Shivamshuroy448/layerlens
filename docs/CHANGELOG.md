@@ -1444,3 +1444,10 @@ Add action toggling between 3D WebGL scene and 2D architecture view.
 
 ---
 
+## Commit #207 - [2026-10-12 12:28:45]
+**feat(store): implement setCameraMode action for preset view angles**
+
+Add action switching camera viewpoint between perspective, top, and front.
+
+---
+
