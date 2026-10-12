@@ -1479,3 +1479,10 @@ Create knowledge.ts providing educational explanations for neural network concep
 
 ---
 
+## Commit #212 - [2026-10-12 15:21:05]
+**feat(knowledge): document Convolutional layer mechanics, receptive fields, and kernels**
+
+Explain 2D spatial convolution, kernel sliding, stride, and padding.
+
+---
+
