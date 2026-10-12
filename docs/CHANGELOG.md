@@ -1500,3 +1500,10 @@ Explain normalization mechanics and numerical stability benefits in deep nets.
 
 ---
 
+## Commit #215 - [2026-10-12 17:10:45]
+**feat(knowledge): document Feed-Forward SwiGLU / GeLU activation functions**
+
+Explain non-linear activation gating and mathematical intuition.
+
+---
+
