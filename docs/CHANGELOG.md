@@ -1521,3 +1521,10 @@ Explain max pooling and average pooling for translational invariance.
 
 ---
 
+## Commit #218 - [2026-10-12 19:02:10]
+**refactor(store): add local storage persistence for user UI preferences**
+
+Persist user view mode and camera preferences across page refreshes.
+
+---
+
