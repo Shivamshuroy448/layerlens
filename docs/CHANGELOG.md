@@ -1514,3 +1514,10 @@ Explain identity skip connections preventing vanishing gradients in deep nets.
 
 ---
 
+## Commit #217 - [2026-10-12 18:24:55]
+**feat(knowledge): document Pooling operations and spatial downsampling**
+
+Explain max pooling and average pooling for translational invariance.
+
+---
+
