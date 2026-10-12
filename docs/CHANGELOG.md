@@ -1507,3 +1507,10 @@ Explain non-linear activation gating and mathematical intuition.
 
 ---
 
+## Commit #216 - [2026-10-12 17:47:20]
+**feat(knowledge): document Residual skip connections and gradient propagation**
+
+Explain identity skip connections preventing vanishing gradients in deep nets.
+
+---
+
