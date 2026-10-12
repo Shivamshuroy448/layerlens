@@ -1437,3 +1437,10 @@ Add action highlighting hovered layer mesh and its connected edges.
 
 ---
 
+## Commit #206 - [2026-10-12 11:52:12]
+**feat(store): implement setViewMode action (3D canvas vs 2D architecture tree)**
+
+Add action toggling between 3D WebGL scene and 2D architecture view.
+
+---
+
