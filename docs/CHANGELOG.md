@@ -1493,3 +1493,10 @@ Explain scaled dot-product attention, query-key interaction, and values.
 
 ---
 
+## Commit #214 - [2026-10-12 16:34:18]
+**feat(knowledge): document LayerNorm vs RMSNorm normalization dynamics**
+
+Explain normalization mechanics and numerical stability benefits in deep nets.
+
+---
+
