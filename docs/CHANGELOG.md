@@ -1430,3 +1430,10 @@ Add action handling node selection and triggering inspector panel opening.
 
 ---
 
+## Commit #205 - [2026-10-12 11:17:50]
+**feat(store): implement setHoveredNode action for hover highlights**
+
+Add action highlighting hovered layer mesh and its connected edges.
+
+---
+
