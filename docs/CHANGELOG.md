@@ -1528,3 +1528,10 @@ Persist user view mode and camera preferences across page refreshes.
 
 ---
 
+## Commit #219 - [2026-10-12 19:42:35]
+**refactor(store): optimize selector subscriptions to minimize re-renders**
+
+Use shallow selector equality checks to avoid unnecessary component renders.
+
+---
+
