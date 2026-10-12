@@ -1465,3 +1465,10 @@ Add search query state filtering layers by name or operation type.
 
 ---
 
+## Commit #210 - [2026-10-12 14:12:40]
+**feat(store): add toggleFlowAnimation action for performance throttling**
+
+Add action allowing users to toggle particle animations to save GPU power.
+
+---
+
