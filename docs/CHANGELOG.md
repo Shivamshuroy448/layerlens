@@ -1423,3 +1423,10 @@ Add action updating active model ID and initiating graph fetching.
 
 ---
 
+## Commit #204 - [2026-10-12 10:48:10]
+**feat(store): implement setSelectedNode action for 3D inspection interactions**
+
+Add action handling node selection and triggering inspector panel opening.
+
+---
+
