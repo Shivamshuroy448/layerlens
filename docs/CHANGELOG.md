@@ -1549,3 +1549,10 @@ Create analysis.ts containing client-side config transformation logic.
 
 ---
 
+## Commit #222 - [2026-10-13 09:41:20]
+**feat(adapter): implement adaptHFToModelGraph to parse raw Hugging Face configs**
+
+Transform raw Hugging Face config.json into visual ModelGraph structure.
+
+---
+
