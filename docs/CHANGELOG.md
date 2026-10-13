@@ -1633,3 +1633,10 @@ Handle non-standard configuration files with resilient default values.
 
 ---
 
+## Commit #234 - [2026-10-13 16:34:18]
+**feat(adapter): implement model search filter matching layer names**
+
+Filter layer list by matching substrings against layer names and types.
+
+---
+
