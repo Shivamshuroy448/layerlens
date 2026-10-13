@@ -1647,3 +1647,10 @@ Track network depth through sequential layers to annotate architecture levels.
 
 ---
 
+## Commit #236 - [2026-10-13 17:47:20]
+**test(adapter): test adaptHFToModelGraph with sample bert-base config**
+
+Verify BERT config produces 12 transformer encoder blocks with attention heads.
+
+---
+
