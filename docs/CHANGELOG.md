@@ -1612,3 +1612,10 @@ Map layer categories to theme color hex values for visual consistency.
 
 ---
 
+## Commit #231 - [2026-10-13 14:48:22]
+**feat(adapter): parse attention head counts and hidden dimension ratios**
+
+Extract attention head width and feed-forward intermediate size multipliers.
+
+---
+
