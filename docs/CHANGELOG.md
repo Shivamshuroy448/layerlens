@@ -1668,3 +1668,10 @@ Ensure instant sub-millisecond parsing even for large 80-layer architectures.
 
 ---
 
+## Commit #239 - [2026-10-13 19:42:35]
+**docs(adapter): document client-side adaptation pipeline**
+
+Document config-to-graph transformation heuristics and supported model families.
+
+---
+
