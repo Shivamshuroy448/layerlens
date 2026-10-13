@@ -1542,3 +1542,10 @@ Complete Zustand store and verify educational knowledge dictionary.
 
 ---
 
+## Commit #221 - [2026-10-13 09:12:14]
+**feat(adapter): create frontend/src/analysis.ts for client-side model analysis**
+
+Create analysis.ts containing client-side config transformation logic.
+
+---
+
