@@ -1640,3 +1640,10 @@ Filter layer list by matching substrings against layer names and types.
 
 ---
 
+## Commit #235 - [2026-10-13 17:10:45]
+**feat(adapter): calculate cumulative depth and receptive field indicators**
+
+Track network depth through sequential layers to annotate architecture levels.
+
+---
+
