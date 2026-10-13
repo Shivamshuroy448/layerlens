@@ -1591,3 +1591,10 @@ Compute token sequence lengths and intermediate embedding dimensionalities.
 
 ---
 
+## Commit #228 - [2026-10-13 13:05:30]
+**feat(adapter): compute parameter counts from layer weight dimensions**
+
+Calculate matrix multiplication parameter sizes from layer dimensions.
+
+---
+
