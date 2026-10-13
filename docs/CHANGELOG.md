@@ -1654,3 +1654,10 @@ Verify BERT config produces 12 transformer encoder blocks with attention heads.
 
 ---
 
+## Commit #237 - [2026-10-13 18:24:55]
+**test(adapter): test adaptHFToModelGraph with sample resnet-50 config**
+
+Verify ResNet-50 config produces 4 convolutional stages with bottleneck blocks.
+
+---
+
