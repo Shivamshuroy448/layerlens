@@ -1598,3 +1598,10 @@ Calculate matrix multiplication parameter sizes from layer dimensions.
 
 ---
 
+## Commit #229 - [2026-10-13 13:39:15]
+**feat(adapter): format byte counts into human-readable MB / GB metrics**
+
+Format raw byte quantities into readable technical memory units.
+
+---
+
