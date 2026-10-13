@@ -1570,3 +1570,10 @@ Recognize CNN layer depths, channel expansion ratios, and stage counts.
 
 ---
 
+## Commit #225 - [2026-10-13 11:17:50]
+**feat(adapter): detect vision-language models (CLIP, ViT, SigLIP)**
+
+Handle dual-encoder architectures with separate vision and text sub-graphs.
+
+---
+
