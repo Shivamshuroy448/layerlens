@@ -1563,3 +1563,10 @@ Recognize transformer hyperparameters: num_hidden_layers, hidden_size, num_heads
 
 ---
 
+## Commit #224 - [2026-10-13 10:48:10]
+**feat(adapter): detect convolutional backbones (ResNet, ConvNeXt, EfficientNet)**
+
+Recognize CNN layer depths, channel expansion ratios, and stage counts.
+
+---
+
