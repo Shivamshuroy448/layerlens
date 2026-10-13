@@ -1584,3 +1584,10 @@ Generate accurate visual representation entirely client-side when offline.
 
 ---
 
+## Commit #227 - [2026-10-13 12:28:45]
+**feat(adapter): infer tensor shapes from input resolution and patch size**
+
+Compute token sequence lengths and intermediate embedding dimensionalities.
+
+---
+
