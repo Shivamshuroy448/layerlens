@@ -1577,3 +1577,10 @@ Handle dual-encoder architectures with separate vision and text sub-graphs.
 
 ---
 
+## Commit #226 - [2026-10-13 11:52:12]
+**feat(adapter): generate synthetic layer nodes when backend is unreachable**
+
+Generate accurate visual representation entirely client-side when offline.
+
+---
+
