@@ -1619,3 +1619,10 @@ Extract attention head width and feed-forward intermediate size multipliers.
 
 ---
 
+## Commit #232 - [2026-10-13 15:21:05]
+**chore(frontend): generate frontend/package-lock.json with resolved deps**
+
+Lock frontend npm package dependency tree with package-lock.json.
+
+---
+
