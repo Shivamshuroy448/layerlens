@@ -1605,3 +1605,10 @@ Format raw byte quantities into readable technical memory units.
 
 ---
 
+## Commit #230 - [2026-10-13 14:12:40]
+**feat(adapter): assign layer color codes matching design token palette**
+
+Map layer categories to theme color hex values for visual consistency.
+
+---
+
