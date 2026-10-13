@@ -1556,3 +1556,10 @@ Transform raw Hugging Face config.json into visual ModelGraph structure.
 
 ---
 
+## Commit #223 - [2026-10-13 10:14:35]
+**feat(adapter): detect transformer architectures (BERT, RoBERTa, GPT-2, LLaMA)**
+
+Recognize transformer hyperparameters: num_hidden_layers, hidden_size, num_heads.
+
+---
+
