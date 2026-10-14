@@ -1794,3 +1794,10 @@ Run bounding box collision test asserting zero overlapping layer meshes.
 
 ---
 
+## Commit #257 - [2026-10-14 18:24:55]
+**test(layout): verify skip connection clearance above intervening layers**
+
+Assert elevated skip spline maintains minimum 2-unit clearance.
+
+---
+
