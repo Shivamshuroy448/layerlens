@@ -1724,3 +1724,10 @@ Compute 3D bezier control points routing smooth curves between layers.
 
 ---
 
+## Commit #247 - [2026-10-14 12:28:45]
+**feat(layout): route skip connections above main serpentine layer path**
+
+Elevate residual skip connections along Y-axis to avoid visual intersection.
+
+---
+
