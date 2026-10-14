@@ -1759,3 +1759,10 @@ Streamline spatial coordinate calculations using vector operations.
 
 ---
 
+## Commit #252 - [2026-10-14 15:21:05]
+**feat(layout): assign 3D rotation angles for curved turnarounds**
+
+Rotate node meshes at serpentine turnarounds to face flow direction.
+
+---
+
