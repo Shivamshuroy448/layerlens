@@ -1682,3 +1682,10 @@ Complete client-side model adaptation pipeline and dependency lockfile.
 
 ---
 
+## Commit #241 - [2026-10-14 09:12:14]
+**feat(layout): create frontend/src/scene/layout.ts for 3D coordinate layout**
+
+Create layout.ts implementing 3D spatial positioning algorithms.
+
+---
+
