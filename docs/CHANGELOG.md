@@ -1745,3 +1745,10 @@ Provide spacing multiplier parameter adjusting gaps between adjacent layers.
 
 ---
 
+## Commit #250 - [2026-10-14 14:12:40]
+**feat(layout): handle branching and parallel multi-branch architectures**
+
+Offset parallel branches laterally along Z-axis before merge operations.
+
+---
+
