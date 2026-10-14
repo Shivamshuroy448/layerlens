@@ -1717,3 +1717,10 @@ Scale 3D mesh width, height, and depth proportionally to tensor dimensions.
 
 ---
 
+## Commit #246 - [2026-10-14 11:52:12]
+**feat(layout): position connection edge spline control points**
+
+Compute 3D bezier control points routing smooth curves between layers.
+
+---
+
