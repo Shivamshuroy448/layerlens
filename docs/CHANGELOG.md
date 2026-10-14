@@ -1731,3 +1731,10 @@ Elevate residual skip connections along Y-axis to avoid visual intersection.
 
 ---
 
+## Commit #248 - [2026-10-14 13:05:30]
+**feat(layout): calculate 3D bounding box for automated camera framing**
+
+Compute min and max spatial coordinates to center and frame the scene.
+
+---
+
