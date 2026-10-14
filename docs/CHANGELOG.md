@@ -1780,3 +1780,10 @@ Add optional vertical waterfall layout mode orientation.
 
 ---
 
+## Commit #255 - [2026-10-14 17:10:45]
+**refactor(layout): add memoization for computed layout geometries**
+
+Cache layout calculations to prevent recalculation when node count is unchanged.
+
+---
+
