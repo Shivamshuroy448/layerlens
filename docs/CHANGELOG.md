@@ -1766,3 +1766,10 @@ Rotate node meshes at serpentine turnarounds to face flow direction.
 
 ---
 
+## Commit #253 - [2026-10-14 15:58:33]
+**feat(layout): compute edge midpoint coordinates for particle flow emitters**
+
+Store edge midpoint vectors for positioning animated flow particles.
+
+---
+
