@@ -1773,3 +1773,10 @@ Store edge midpoint vectors for positioning animated flow particles.
 
 ---
 
+## Commit #254 - [2026-10-14 16:34:18]
+**feat(layout): support compact vertical layout mode for tall displays**
+
+Add optional vertical waterfall layout mode orientation.
+
+---
+
