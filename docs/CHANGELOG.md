@@ -1738,3 +1738,10 @@ Compute min and max spatial coordinates to center and frame the scene.
 
 ---
 
+## Commit #249 - [2026-10-14 13:39:15]
+**feat(layout): add layer spacing configuration for dense vs expansive views**
+
+Provide spacing multiplier parameter adjusting gaps between adjacent layers.
+
+---
+
