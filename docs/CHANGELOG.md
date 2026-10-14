@@ -1808,3 +1808,10 @@ Adjust margin constants for optimal viewing across desktop monitor aspect ratios
 
 ---
 
+## Commit #259 - [2026-10-14 19:42:35]
+**docs(layout): document 3D serpentine coordinate layout mathematics**
+
+Provide diagrams and formulas explaining the serpentine folding layout.
+
+---
+
