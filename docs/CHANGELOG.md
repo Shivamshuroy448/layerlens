@@ -1801,3 +1801,10 @@ Assert elevated skip spline maintains minimum 2-unit clearance.
 
 ---
 
+## Commit #258 - [2026-10-14 19:02:10]
+**refactor(layout): fine-tune visual margins and aspect ratio scaling**
+
+Adjust margin constants for optimal viewing across desktop monitor aspect ratios.
+
+---
+
