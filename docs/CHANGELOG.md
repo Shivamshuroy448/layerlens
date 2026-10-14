@@ -1703,3 +1703,10 @@ Dynamically adjust serpentine row length so deep networks fit viewing frustum.
 
 ---
 
+## Commit #244 - [2026-10-14 10:48:10]
+**feat(layout): implement alternating direction curves for consecutive rows**
+
+Alternate left-to-right and right-to-left directions on successive rows.
+
+---
+
