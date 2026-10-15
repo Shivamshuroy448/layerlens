@@ -1913,3 +1913,10 @@ Smooth out consecutive focus commands to prevent jarring camera cuts.
 
 ---
 
+## Commit #274 - [2026-10-15 16:34:18]
+**feat(scene): add cinematic slow-drift idle rotation when inactive**
+
+Slowly rotate camera around center of model when user is idle.
+
+---
+
