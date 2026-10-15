@@ -1906,3 +1906,10 @@ Set near clipping plane to 0.1 and far plane to 1000 for broad scene depth.
 
 ---
 
+## Commit #273 - [2026-10-15 15:58:33]
+**feat(scene): implement camera shake dampening during rapid node selection**
+
+Smooth out consecutive focus commands to prevent jarring camera cuts.
+
+---
+
