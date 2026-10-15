@@ -1899,3 +1899,10 @@ Execute camera position interpolation inside Three.js frame render loop.
 
 ---
 
+## Commit #272 - [2026-10-15 15:21:05]
+**feat(scene): prevent camera clipping through near and far plane configuration**
+
+Set near clipping plane to 0.1 and far plane to 1000 for broad scene depth.
+
+---
+
