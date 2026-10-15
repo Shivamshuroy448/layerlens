@@ -1871,3 +1871,10 @@ Add key and fill directional lights to illuminate 3D layer mesh bevels.
 
 ---
 
+## Commit #268 - [2026-10-15 13:05:30]
+**feat(scene): add ambient light fill for deep neural network visibility**
+
+Provide subtle ambient light ensuring unlit mesh facets remain clearly legible.
+
+---
+
