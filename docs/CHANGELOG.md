@@ -1927,3 +1927,10 @@ Use React refs for mutable Three.js objects to avoid React render cycles.
 
 ---
 
+## Commit #276 - [2026-10-15 17:47:20]
+**feat(scene): add touch gesture support for mobile pinch-to-zoom**
+
+Enable two-finger pinch zoom and touch pan for mobile and tablet screens.
+
+---
+
