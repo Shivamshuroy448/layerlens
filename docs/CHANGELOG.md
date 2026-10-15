@@ -1878,3 +1878,10 @@ Provide subtle ambient light ensuring unlit mesh facets remain clearly legible.
 
 ---
 
+## Commit #269 - [2026-10-15 13:39:15]
+**feat(scene): add subtle grid helper floor plane with glowing grid lines**
+
+Render reference ground grid providing spatial orientation and scale.
+
+---
+
