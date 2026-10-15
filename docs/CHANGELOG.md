@@ -1864,3 +1864,10 @@ Constrain camera zoom distance to prevent clipping into layers or drifting too f
 
 ---
 
+## Commit #267 - [2026-10-15 12:28:45]
+**feat(scene): configure directional lighting with subtle shadows**
+
+Add key and fill directional lights to illuminate 3D layer mesh bevels.
+
+---
+
