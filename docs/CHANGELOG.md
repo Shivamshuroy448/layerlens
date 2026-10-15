@@ -1836,3 +1836,10 @@ Configure orbit controls with inertia damping for fluid camera manipulation.
 
 ---
 
+## Commit #263 - [2026-10-15 10:14:35]
+**feat(scene): implement camera preset transitions (isometric, top-down, side, perspective)**
+
+Animate camera smoothly to preset vantage points on user request.
+
+---
+
