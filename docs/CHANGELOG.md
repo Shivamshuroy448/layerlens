@@ -1934,3 +1934,10 @@ Enable two-finger pinch zoom and touch pan for mobile and tablet screens.
 
 ---
 
+## Commit #277 - [2026-10-15 18:24:55]
+**test(scene): verify camera target interpolation arrives within epsilon**
+
+Test lerp interpolation converges to target coordinate within 60 frames.
+
+---
+
