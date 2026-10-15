@@ -1885,3 +1885,10 @@ Render reference ground grid providing spatial orientation and scale.
 
 ---
 
+## Commit #270 - [2026-10-15 14:12:40]
+**feat(scene): implement camera reset button restoring default hero view**
+
+Add action returning camera to initial framing of entire model graph.
+
+---
+
