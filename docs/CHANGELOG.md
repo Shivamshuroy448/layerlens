@@ -1829,3 +1829,10 @@ Create CameraRig component managing 3D viewport camera behavior.
 
 ---
 
+## Commit #262 - [2026-10-15 09:41:20]
+**feat(scene): implement smooth orbital controls with damped rotations**
+
+Configure orbit controls with inertia damping for fluid camera manipulation.
+
+---
+
