@@ -1948,3 +1948,10 @@ Balance light values for high visual contrast without blowing out highlights.
 
 ---
 
+## Commit #279 - [2026-10-15 19:42:35]
+**docs(scene): document CameraRig controls and keybindings in scene docs**
+
+Document keyboard and mouse camera controls in project documentation.
+
+---
+
