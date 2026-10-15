@@ -1843,3 +1843,10 @@ Animate camera smoothly to preset vantage points on user request.
 
 ---
 
+## Commit #264 - [2026-10-15 10:48:10]
+**feat(scene): implement focusOnNode smoothly interpolating camera to target node**
+
+Lerp camera position and lookAt target when user selects a layer node.
+
+---
+
