@@ -1920,3 +1920,10 @@ Slowly rotate camera around center of model when user is idle.
 
 ---
 
+## Commit #275 - [2026-10-15 17:10:45]
+**refactor(scene): decouple CameraRig state from three.js render loop**
+
+Use React refs for mutable Three.js objects to avoid React render cycles.
+
+---
+
