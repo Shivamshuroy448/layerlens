@@ -1857,3 +1857,10 @@ Allow panning and rotating scene using standard keyboard navigation keys.
 
 ---
 
+## Commit #266 - [2026-10-15 11:52:12]
+**feat(scene): add mouse wheel zoom with bounded min/max distance**
+
+Constrain camera zoom distance to prevent clipping into layers or drifting too far.
+
+---
+
