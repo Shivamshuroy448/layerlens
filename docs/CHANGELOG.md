@@ -1892,3 +1892,10 @@ Add action returning camera to initial framing of entire model graph.
 
 ---
 
+## Commit #271 - [2026-10-15 14:48:22]
+**refactor(scene): optimize camera matrix updates with useFrame hook**
+
+Execute camera position interpolation inside Three.js frame render loop.
+
+---
+
