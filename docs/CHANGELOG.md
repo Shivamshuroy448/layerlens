@@ -1850,3 +1850,10 @@ Lerp camera position and lookAt target when user selects a layer node.
 
 ---
 
+## Commit #265 - [2026-10-15 11:17:50]
+**feat(scene): add keyboard navigation controls (WASD + arrow keys)**
+
+Allow panning and rotating scene using standard keyboard navigation keys.
+
+---
+
