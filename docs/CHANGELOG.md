@@ -1822,3 +1822,10 @@ Complete spatial layout engine with robust serpentine positioning.
 
 ---
 
+## Commit #261 - [2026-10-15 09:12:14]
+**feat(scene): create frontend/src/scene/CameraRig.tsx using @react-three/fiber**
+
+Create CameraRig component managing 3D viewport camera behavior.
+
+---
+
