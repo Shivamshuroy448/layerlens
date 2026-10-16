@@ -1969,3 +1969,10 @@ Create LayerNode component rendering individual 3D layer meshes.
 
 ---
 
+## Commit #282 - [2026-10-16 09:41:20]
+**feat(scene): create frontend/src/scene/ModelScene.tsx canvas container**
+
+Create ModelScene component hosting R3F Canvas and rendering graph.
+
+---
+
