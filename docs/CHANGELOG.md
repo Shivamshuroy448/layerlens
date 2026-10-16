@@ -2018,3 +2018,10 @@ Attach pointer event listeners triggering selection on 3D mesh click.
 
 ---
 
+## Commit #289 - [2026-10-16 13:39:15]
+**feat(scene): add subtle breathing animation on hovered layer mesh**
+
+Animate scale slightly on hover to give tactile interactive feedback.
+
+---
+
