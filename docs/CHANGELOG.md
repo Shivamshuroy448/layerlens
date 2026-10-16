@@ -2032,3 +2032,10 @@ Render multi-colored attention slice indicators for multi-head attention layers.
 
 ---
 
+## Commit #291 - [2026-10-16 14:48:22]
+**refactor(scene): instanced mesh optimization for repeating identical layers**
+
+Group identical layer geometries into instanced buffers for high frame rates.
+
+---
+
