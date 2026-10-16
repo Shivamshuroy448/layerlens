@@ -2046,3 +2046,10 @@ Smoothly transition mesh material color when switching theme presets.
 
 ---
 
+## Commit #293 - [2026-10-16 15:58:33]
+**feat(scene): implement wireframe overlay toggle for technical inspection**
+
+Allow toggling technical wireframe mode displaying underlying mesh facets.
+
+---
+
