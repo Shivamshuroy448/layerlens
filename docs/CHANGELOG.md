@@ -2081,3 +2081,10 @@ Assert hover event correctly dispatches hoveredNodeId to global store.
 
 ---
 
+## Commit #298 - [2026-10-16 19:02:10]
+**refactor(scene): polish layer node edge bevel radii and material glossiness**
+
+Tune roughness and metalness material properties for sleek metallic finish.
+
+---
+
