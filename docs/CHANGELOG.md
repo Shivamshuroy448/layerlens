@@ -2060,3 +2060,10 @@ Memoize Three.js geometries and materials based on node ID and type.
 
 ---
 
+## Commit #295 - [2026-10-16 17:10:45]
+**feat(scene): add depth test and depth write optimizations for transparent glow**
+
+Configure depth testing to prevent transparent halos from sorting incorrectly.
+
+---
+
