@@ -2088,3 +2088,10 @@ Tune roughness and metalness material properties for sleek metallic finish.
 
 ---
 
+## Commit #299 - [2026-10-16 19:42:35]
+**docs(scene): document 3D layer rendering pipeline and shader uniforms**
+
+Document shader parameters, mesh hierarchies, and raycasting events.
+
+---
+
