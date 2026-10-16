@@ -2067,3 +2067,10 @@ Configure depth testing to prevent transparent halos from sorting incorrectly.
 
 ---
 
+## Commit #296 - [2026-10-16 17:47:20]
+**feat(scene): implement click outside handler to deselect active node**
+
+Clicking empty background canvas deselects active layer and clears inspector.
+
+---
+
