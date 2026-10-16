@@ -2011,3 +2011,10 @@ Render small metallic pins where skip connection splines attach to layers.
 
 ---
 
+## Commit #288 - [2026-10-16 13:05:30]
+**feat(scene): implement pointer raycasting with click handlers for node selection**
+
+Attach pointer event listeners triggering selection on 3D mesh click.
+
+---
+
