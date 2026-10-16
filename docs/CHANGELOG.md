@@ -1990,3 +1990,10 @@ Apply emissive shader material pulsing gently when layer is selected.
 
 ---
 
+## Commit #285 - [2026-10-16 11:17:50]
+**feat(scene): add hover state highlighting connected input and output edges**
+
+Highlight upstream and downstream connections when mouse hovers over layer.
+
+---
+
