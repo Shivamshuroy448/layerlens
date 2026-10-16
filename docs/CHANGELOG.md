@@ -1976,3 +1976,10 @@ Create ModelScene component hosting R3F Canvas and rendering graph.
 
 ---
 
+## Commit #283 - [2026-10-16 10:14:35]
+**feat(scene): render rounded box geometries for neural network layers**
+
+Use rounded box geometries with chamfered edges for technical industrial aesthetic.
+
+---
+
