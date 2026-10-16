@@ -1997,3 +1997,10 @@ Highlight upstream and downstream connections when mouse hovers over layer.
 
 ---
 
+## Commit #286 - [2026-10-16 11:52:12]
+**feat(scene): implement 3D text billboards rendering layer name and dimensions**
+
+Render floating text labels above meshes displaying layer name and tensor shape.
+
+---
+
