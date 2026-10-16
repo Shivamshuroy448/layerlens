@@ -2025,3 +2025,10 @@ Animate scale slightly on hover to give tactile interactive feedback.
 
 ---
 
+## Commit #290 - [2026-10-16 14:12:40]
+**feat(scene): configure custom shader material for attention heads**
+
+Render multi-colored attention slice indicators for multi-head attention layers.
+
+---
+
