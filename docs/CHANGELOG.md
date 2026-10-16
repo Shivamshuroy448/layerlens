@@ -2004,3 +2004,10 @@ Render floating text labels above meshes displaying layer name and tensor shape.
 
 ---
 
+## Commit #287 - [2026-10-16 12:28:45]
+**feat(scene): add visual indicators for residual skip connection anchor pins**
+
+Render small metallic pins where skip connection splines attach to layers.
+
+---
+
