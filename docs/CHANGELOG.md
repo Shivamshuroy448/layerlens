@@ -1962,3 +1962,10 @@ Complete CameraRig implementation with smooth navigation controls.
 
 ---
 
+## Commit #281 - [2026-10-16 09:12:14]
+**feat(scene): create frontend/src/scene/LayerNode.tsx 3D component**
+
+Create LayerNode component rendering individual 3D layer meshes.
+
+---
+
