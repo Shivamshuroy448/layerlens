@@ -2039,3 +2039,10 @@ Group identical layer geometries into instanced buffers for high frame rates.
 
 ---
 
+## Commit #292 - [2026-10-16 15:21:05]
+**feat(scene): add color transitions when layer family changes**
+
+Smoothly transition mesh material color when switching theme presets.
+
+---
+
