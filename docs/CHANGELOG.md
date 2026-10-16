@@ -2074,3 +2074,10 @@ Clicking empty background canvas deselects active layer and clears inspector.
 
 ---
 
+## Commit #297 - [2026-10-16 18:24:55]
+**test(scene): verify node hover event triggers Zustand state update**
+
+Assert hover event correctly dispatches hoveredNodeId to global store.
+
+---
+
