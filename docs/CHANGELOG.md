@@ -2053,3 +2053,10 @@ Allow toggling technical wireframe mode displaying underlying mesh facets.
 
 ---
 
+## Commit #294 - [2026-10-16 16:34:18]
+**refactor(scene): optimize geometry re-creation using React useMemo**
+
+Memoize Three.js geometries and materials based on node ID and type.
+
+---
+
