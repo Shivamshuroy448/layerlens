@@ -1983,3 +1983,10 @@ Use rounded box geometries with chamfered edges for technical industrial aesthet
 
 ---
 
+## Commit #284 - [2026-10-16 10:48:10]
+**feat(scene): implement emissive glow material pulsing on active selection**
+
+Apply emissive shader material pulsing gently when layer is selected.
+
+---
+
