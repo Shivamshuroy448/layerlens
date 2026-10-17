@@ -2228,3 +2228,10 @@ Remove unused uniforms from particle vertex and fragment shaders.
 
 ---
 
+## Commit #319 - [2026-10-17 19:42:35]
+**docs(scene): document spline mathematics and particle animation architecture**
+
+Document curve formulas and GPU instanced particle streaming.
+
+---
+
