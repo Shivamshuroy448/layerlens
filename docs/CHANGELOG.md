@@ -2109,3 +2109,10 @@ Create FlowDots component visualizing dynamic data flow between layers.
 
 ---
 
+## Commit #302 - [2026-10-17 09:41:20]
+**feat(scene): implement Catmull-Rom spline curves connecting adjacent layers**
+
+Generate smooth 3D curves along edge control points using CatmullRomCurve3.
+
+---
+
