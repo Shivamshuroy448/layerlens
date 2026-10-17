@@ -2221,3 +2221,10 @@ Confirm consistent 60fps frame rate with 200 concurrent active particles.
 
 ---
 
+## Commit #318 - [2026-10-17 19:02:10]
+**refactor(scene): clean up shader uniforms and attribute bindings in FlowDots**
+
+Remove unused uniforms from particle vertex and fragment shaders.
+
+---
+
