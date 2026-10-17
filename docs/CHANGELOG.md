@@ -2137,3 +2137,10 @@ Assign particle glow colors corresponding to activation tensor classification.
 
 ---
 
+## Commit #306 - [2026-10-17 11:52:12]
+**feat(scene): implement particle pooling to eliminate garbage collection pauses**
+
+Pre-allocate particle buffers to avoid runtime memory allocations.
+
+---
+
