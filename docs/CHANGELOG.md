@@ -2116,3 +2116,10 @@ Generate smooth 3D curves along edge control points using CatmullRomCurve3.
 
 ---
 
+## Commit #303 - [2026-10-17 10:14:35]
+**feat(scene): generate animated particle streams flowing along spline curves**
+
+Spawn glowing particle instances that travel forward along connection curves.
+
+---
+
