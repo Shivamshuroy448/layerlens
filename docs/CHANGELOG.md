@@ -2207,3 +2207,10 @@ Fade in connection curves gracefully when switching to a new model.
 
 ---
 
+## Commit #316 - [2026-10-17 17:47:20]
+**feat(scene): add backward pass particle flow mode visualizing backprop gradients**
+
+Support reversing particle direction to simulate backpropagation gradients.
+
+---
+
