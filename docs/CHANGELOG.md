@@ -2123,3 +2123,10 @@ Spawn glowing particle instances that travel forward along connection curves.
 
 ---
 
+## Commit #304 - [2026-10-17 10:48:10]
+**feat(scene): calculate particle speed proportional to layer parameter density**
+
+Vary particle velocity to reflect data propagation speed through the network.
+
+---
+
