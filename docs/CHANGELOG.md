@@ -2165,3 +2165,10 @@ Allow disabling flow particle animation via store action to conserve battery.
 
 ---
 
+## Commit #310 - [2026-10-17 14:12:40]
+**feat(scene): adjust particle density based on batch size and hidden dimension**
+
+Scale number of active particles to reflect tensor data volume.
+
+---
+
