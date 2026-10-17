@@ -2130,3 +2130,10 @@ Vary particle velocity to reflect data propagation speed through the network.
 
 ---
 
+## Commit #305 - [2026-10-17 11:17:50]
+**feat(scene): color-code particles matching source layer output tensor type**
+
+Assign particle glow colors corresponding to activation tensor classification.
+
+---
+
