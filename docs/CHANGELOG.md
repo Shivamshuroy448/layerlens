@@ -2151,3 +2151,10 @@ Render comet-like fading trails behind each traveling particle.
 
 ---
 
+## Commit #308 - [2026-10-17 13:05:30]
+**feat(scene): support skip connection particle routing along elevated arc**
+
+Route particles along high-altitude arcs for residual connections.
+
+---
+
