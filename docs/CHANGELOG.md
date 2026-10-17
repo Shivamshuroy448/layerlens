@@ -2158,3 +2158,10 @@ Route particles along high-altitude arcs for residual connections.
 
 ---
 
+## Commit #309 - [2026-10-17 13:39:15]
+**feat(scene): add toggle to pause flow particles for low-power devices**
+
+Allow disabling flow particle animation via store action to conserve battery.
+
+---
+
