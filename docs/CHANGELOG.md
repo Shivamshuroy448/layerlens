@@ -2200,3 +2200,10 @@ Cache points along splines to avoid costly curve evaluations each frame.
 
 ---
 
+## Commit #315 - [2026-10-17 17:10:45]
+**feat(scene): implement smooth fade-in for newly loaded model splines**
+
+Fade in connection curves gracefully when switching to a new model.
+
+---
+
