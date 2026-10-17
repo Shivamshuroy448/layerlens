@@ -2144,3 +2144,10 @@ Pre-allocate particle buffers to avoid runtime memory allocations.
 
 ---
 
+## Commit #307 - [2026-10-17 12:28:45]
+**feat(scene): add glowing particle head with fading trail effect**
+
+Render comet-like fading trails behind each traveling particle.
+
+---
+
