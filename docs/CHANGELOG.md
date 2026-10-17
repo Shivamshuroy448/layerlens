@@ -2193,3 +2193,10 @@ Render expanding pulse rings from layers when particles reach inputs.
 
 ---
 
+## Commit #314 - [2026-10-17 16:34:18]
+**refactor(scene): optimize curve evaluation using precomputed lookup tables**
+
+Cache points along splines to avoid costly curve evaluations each frame.
+
+---
+
