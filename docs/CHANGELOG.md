@@ -2172,3 +2172,10 @@ Scale number of active particles to reflect tensor data volume.
 
 ---
 
+## Commit #311 - [2026-10-17 14:48:22]
+**refactor(scene): use instanced buffer attributes for 60fps particle rendering**
+
+Render all particles in a single draw call via InstancedBufferGeometry.
+
+---
+
