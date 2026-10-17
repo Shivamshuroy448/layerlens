@@ -2179,3 +2179,10 @@ Render all particles in a single draw call via InstancedBufferGeometry.
 
 ---
 
+## Commit #312 - [2026-10-17 15:21:05]
+**feat(scene): synchronize particle emitter pulses with forward pass animation**
+
+Emit synchronized particle bursts simulating inference forward pass.
+
+---
+
