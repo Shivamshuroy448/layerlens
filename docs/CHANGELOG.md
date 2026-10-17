@@ -2186,3 +2186,10 @@ Emit synchronized particle bursts simulating inference forward pass.
 
 ---
 
+## Commit #313 - [2026-10-17 15:58:33]
+**feat(scene): add tensor dimensional pulse rings radiating from layer nodes**
+
+Render expanding pulse rings from layers when particles reach inputs.
+
+---
+
