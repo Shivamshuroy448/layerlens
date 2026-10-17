@@ -2102,3 +2102,10 @@ Complete 3D layer rendering components with interactive highlighting.
 
 ---
 
+## Commit #301 - [2026-10-17 09:12:14]
+**feat(scene): create frontend/src/scene/FlowDots.tsx for animated tensor flow**
+
+Create FlowDots component visualizing dynamic data flow between layers.
+
+---
+
