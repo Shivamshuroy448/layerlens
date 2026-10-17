@@ -2214,3 +2214,10 @@ Support reversing particle direction to simulate backpropagation gradients.
 
 ---
 
+## Commit #317 - [2026-10-17 18:24:55]
+**test(scene): verify FlowDots renders without frame drops across 50 splines**
+
+Confirm consistent 60fps frame rate with 200 concurrent active particles.
+
+---
+
