@@ -2291,3 +2291,10 @@ Show full PyTorch module path (e.g. encoder.layer.0.attention.self).
 
 ---
 
+## Commit #328 - [2026-10-18 13:05:30]
+**feat(ui): display input and output tensor dimensions with batch size**
+
+Format tensor shapes cleanly with batch, sequence length, and channels.
+
+---
+
