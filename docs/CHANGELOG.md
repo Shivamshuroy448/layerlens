@@ -2235,3 +2235,10 @@ Document curve formulas and GPU instanced particle streaming.
 
 ---
 
+## Commit #320 - [2026-10-17 20:25:50]
+**chore: finalize Day 16 particle flow animation engine**
+
+Complete particle flow animation engine with high-performance instancing.
+
+---
+
