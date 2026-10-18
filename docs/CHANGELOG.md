@@ -2319,3 +2319,10 @@ Display educational deep learning explanation from knowledge dictionary.
 
 ---
 
+## Commit #332 - [2026-10-18 15:21:05]
+**feat(ui): add close button and ESC key handler to dismiss inspector panel**
+
+Allow closing inspector via UI close button or pressing Escape key.
+
+---
+
