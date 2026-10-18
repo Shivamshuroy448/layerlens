@@ -2361,3 +2361,10 @@ Assert clicking layer type toggle correctly updates hiddenLayers set in store.
 
 ---
 
+## Commit #338 - [2026-10-18 19:02:10]
+**refactor(ui): polish UI typography, pill badges, and padding**
+
+Refine spacing, font weights, and icon alignments across UI components.
+
+---
+
