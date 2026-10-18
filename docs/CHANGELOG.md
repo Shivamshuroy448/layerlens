@@ -2312,3 +2312,10 @@ Calculate inference memory requirement and computational complexity.
 
 ---
 
+## Commit #331 - [2026-10-18 14:48:22]
+**feat(ui): embed interactive knowledge card explaining layer functionality**
+
+Display educational deep learning explanation from knowledge dictionary.
+
+---
+
