@@ -2326,3 +2326,10 @@ Allow closing inspector via UI close button or pressing Escape key.
 
 ---
 
+## Commit #333 - [2026-10-18 15:58:33]
+**feat(ui): add copy layer metadata to clipboard button**
+
+Provide one-click button to copy layer JSON properties to clipboard.
+
+---
+
