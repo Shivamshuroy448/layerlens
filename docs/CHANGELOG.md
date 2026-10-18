@@ -2263,3 +2263,10 @@ Allow users to toggle visibility of specific layer categories in scene.
 
 ---
 
+## Commit #324 - [2026-10-18 10:48:10]
+**feat(ui): create frontend/src/components/ViewToggle.tsx switcher**
+
+Create ViewToggle component allowing users to switch presentation modes.
+
+---
+
