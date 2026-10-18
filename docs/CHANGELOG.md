@@ -2249,3 +2249,10 @@ Create Legend component displaying layer families and color keys.
 
 ---
 
+## Commit #322 - [2026-10-18 09:41:20]
+**feat(ui): render color swatches for Conv, Linear, Attention, Norm, Pooling**
+
+Render glowing color badges for each supported neural network operation type.
+
+---
+
