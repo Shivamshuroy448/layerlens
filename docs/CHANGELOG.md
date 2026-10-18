@@ -2340,3 +2340,10 @@ List connected layers with clickable links focusing camera on that layer.
 
 ---
 
+## Commit #335 - [2026-10-18 17:10:45]
+**refactor(ui): style inspector panel with frosted glass background blur**
+
+Apply glassmorphism backdrop filter and subtle border highlights.
+
+---
+
