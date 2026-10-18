@@ -2333,3 +2333,10 @@ Provide one-click button to copy layer JSON properties to clipboard.
 
 ---
 
+## Commit #334 - [2026-10-18 16:34:18]
+**feat(ui): display list of upstream inputs and downstream outputs with jump links**
+
+List connected layers with clickable links focusing camera on that layer.
+
+---
+
