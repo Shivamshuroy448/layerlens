@@ -2368,3 +2368,10 @@ Refine spacing, font weights, and icon alignments across UI components.
 
 ---
 
+## Commit #339 - [2026-10-18 19:42:35]
+**docs(ui): document HUD component hierarchy and event listeners**
+
+Document component tree and state interactions in UI architecture guide.
+
+---
+
