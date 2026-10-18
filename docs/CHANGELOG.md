@@ -2270,3 +2270,10 @@ Create ViewToggle component allowing users to switch presentation modes.
 
 ---
 
+## Commit #325 - [2026-10-18 11:17:50]
+**feat(ui): support 3D Spatial, 2D Architecture Tree, and Config Grid views**
+
+Support toggling between 3D canvas, 2D tree diagram, and raw config grid.
+
+---
+
