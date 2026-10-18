@@ -2354,3 +2354,10 @@ Organize inspector details into clean collapsible accordions.
 
 ---
 
+## Commit #337 - [2026-10-18 18:24:55]
+**test(ui): test Legend component filters correctly dispatch to Zustand**
+
+Assert clicking layer type toggle correctly updates hiddenLayers set in store.
+
+---
+
