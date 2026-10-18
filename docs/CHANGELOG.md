@@ -2242,3 +2242,10 @@ Complete particle flow animation engine with high-performance instancing.
 
 ---
 
+## Commit #321 - [2026-10-18 09:12:14]
+**feat(ui): create frontend/src/components/Legend.tsx for layer classification**
+
+Create Legend component displaying layer families and color keys.
+
+---
+
