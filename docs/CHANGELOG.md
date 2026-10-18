@@ -2305,3 +2305,10 @@ Show parameter quantity and proportion of total model parameter budget.
 
 ---
 
+## Commit #330 - [2026-10-18 14:12:40]
+**feat(ui): display activation memory footprint and FLOP estimation**
+
+Calculate inference memory requirement and computational complexity.
+
+---
+
