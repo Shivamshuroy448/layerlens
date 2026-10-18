@@ -2347,3 +2347,10 @@ Apply glassmorphism backdrop filter and subtle border highlights.
 
 ---
 
+## Commit #336 - [2026-10-18 17:47:20]
+**feat(ui): add collapsible sections for advanced tensor properties**
+
+Organize inspector details into clean collapsible accordions.
+
+---
+
