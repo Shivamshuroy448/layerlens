@@ -2277,3 +2277,10 @@ Support toggling between 3D canvas, 2D tree diagram, and raw config grid.
 
 ---
 
+## Commit #326 - [2026-10-18 11:52:12]
+**feat(ui): create frontend/src/components/LayerInspector.tsx side panel**
+
+Create LayerInspector slide-over panel displaying layer details.
+
+---
+
