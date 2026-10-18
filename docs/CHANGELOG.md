@@ -2298,3 +2298,10 @@ Format tensor shapes cleanly with batch, sequence length, and channels.
 
 ---
 
+## Commit #329 - [2026-10-18 13:39:15]
+**feat(ui): display parameter count with percentage of total model weights**
+
+Show parameter quantity and proportion of total model parameter budget.
+
+---
+
