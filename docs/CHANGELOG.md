@@ -2256,3 +2256,10 @@ Render glowing color badges for each supported neural network operation type.
 
 ---
 
+## Commit #323 - [2026-10-18 10:14:35]
+**feat(ui): implement filter toggles to isolate specific layer types in 3D**
+
+Allow users to toggle visibility of specific layer categories in scene.
+
+---
+
