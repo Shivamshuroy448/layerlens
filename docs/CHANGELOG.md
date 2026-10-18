@@ -2284,3 +2284,10 @@ Create LayerInspector slide-over panel displaying layer details.
 
 ---
 
+## Commit #327 - [2026-10-18 12:28:45]
+**feat(ui): display selected layer name, type, and module hierarchy path**
+
+Show full PyTorch module path (e.g. encoder.layer.0.attention.self).
+
+---
+
