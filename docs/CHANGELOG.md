@@ -2473,3 +2473,10 @@ Ensure selecting a node in 2D view highlights same layer when returning to 3D.
 
 ---
 
+## Commit #354 - [2026-10-19 16:34:18]
+**feat(ui): add breadcrumb trail for deep nested submodules**
+
+Display breadcrumb bar showing hierarchical path to currently inspected layer.
+
+---
+
