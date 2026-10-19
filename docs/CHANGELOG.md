@@ -2466,3 +2466,10 @@ Show elegant skeleton loader while model graph is being computed.
 
 ---
 
+## Commit #353 - [2026-10-19 15:58:33]
+**refactor(ui): synchronize selected node between 2D diagram and 3D canvas**
+
+Ensure selecting a node in 2D view highlights same layer when returning to 3D.
+
+---
+
