@@ -2438,3 +2438,10 @@ Provide quick-launch cards for popular vision, text, and diffusion models.
 
 ---
 
+## Commit #349 - [2026-10-19 13:39:15]
+**feat(ui): implement Hugging Face model search input with autocomplete**
+
+Add search input allowing users to enter arbitrary Hugging Face model IDs.
+
+---
+
