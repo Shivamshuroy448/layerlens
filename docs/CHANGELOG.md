@@ -2487,3 +2487,10 @@ Allow users to export 2D architectural diagram as scalable SVG image.
 
 ---
 
+## Commit #356 - [2026-10-19 17:47:20]
+**test(ui): test ArchitectureDiagram handles deeply nested transformer blocks**
+
+Verify tree diagram correctly recurses through multi-level submodule paths.
+
+---
+
