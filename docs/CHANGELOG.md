@@ -2459,3 +2459,10 @@ Display informative error alerts when requested model fails to resolve.
 
 ---
 
+## Commit #352 - [2026-10-19 15:21:05]
+**feat(ui): add loading skeleton and animated progress indicator during fetch**
+
+Show elegant skeleton loader while model graph is being computed.
+
+---
+
