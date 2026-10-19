@@ -2480,3 +2480,10 @@ Display breadcrumb bar showing hierarchical path to currently inspected layer.
 
 ---
 
+## Commit #355 - [2026-10-19 17:10:45]
+**feat(ui): implement quick-export of 2D architecture diagram as SVG**
+
+Allow users to export 2D architectural diagram as scalable SVG image.
+
+---
+
