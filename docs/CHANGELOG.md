@@ -2389,3 +2389,10 @@ Create ArchitectureDiagram component rendering 2D nested module tree.
 
 ---
 
+## Commit #342 - [2026-10-19 09:41:20]
+**feat(ui): render hierarchical tree diagram of nested PyTorch modules**
+
+Display collapsible folder-tree layout showing submodule nesting.
+
+---
+
