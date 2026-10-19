@@ -2375,3 +2375,10 @@ Document component tree and state interactions in UI architecture guide.
 
 ---
 
+## Commit #340 - [2026-10-18 20:25:50]
+**chore: finalize Day 17 UI controls, legend, and layer inspector**
+
+Complete HUD controls, layer legend, and detailed layer inspector panel.
+
+---
+
