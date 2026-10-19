@@ -2403,3 +2403,10 @@ Allow toggling transformer encoder and decoder blocks open and closed.
 
 ---
 
+## Commit #344 - [2026-10-19 10:48:10]
+**feat(ui): create frontend/src/components/ArchitectureView.tsx container**
+
+Create ArchitectureView container component managing 2D tree layout.
+
+---
+
