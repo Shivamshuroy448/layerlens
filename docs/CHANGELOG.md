@@ -2382,3 +2382,10 @@ Complete HUD controls, layer legend, and detailed layer inspector panel.
 
 ---
 
+## Commit #341 - [2026-10-19 09:12:14]
+**feat(ui): create frontend/src/components/ArchitectureDiagram.tsx 2D tree**
+
+Create ArchitectureDiagram component rendering 2D nested module tree.
+
+---
+
