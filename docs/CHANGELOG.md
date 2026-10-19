@@ -2508,3 +2508,10 @@ Document landing experience, model cards, and 2D view navigation.
 
 ---
 
+## Commit #359 - [2026-10-19 19:42:35]
+**refactor(ui): polish landing page styling and responsive breakpoints**
+
+Ensure landing page looks great across desktop, tablet, and mobile displays.
+
+---
+
