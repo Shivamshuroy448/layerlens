@@ -2396,3 +2396,10 @@ Display collapsible folder-tree layout showing submodule nesting.
 
 ---
 
+## Commit #343 - [2026-10-19 10:14:35]
+**feat(ui): support expanding and collapsing transformer blocks and stages**
+
+Allow toggling transformer encoder and decoder blocks open and closed.
+
+---
+
