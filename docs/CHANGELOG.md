@@ -2494,3 +2494,10 @@ Verify tree diagram correctly recurses through multi-level submodule paths.
 
 ---
 
+## Commit #357 - [2026-10-19 18:24:55]
+**refactor(ui): optimize tree node expansion state management**
+
+Maintain expanded set efficiently using immutable Set operations in React.
+
+---
+
