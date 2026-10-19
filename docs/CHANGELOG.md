@@ -2501,3 +2501,10 @@ Maintain expanded set efficiently using immutable Set operations in React.
 
 ---
 
+## Commit #358 - [2026-10-19 19:02:10]
+**docs(ui): document landing page model selection and 2D view features**
+
+Document landing experience, model cards, and 2D view navigation.
+
+---
+
