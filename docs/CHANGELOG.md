@@ -2445,3 +2445,10 @@ Add search input allowing users to enter arbitrary Hugging Face model IDs.
 
 ---
 
+## Commit #350 - [2026-10-19 14:12:40]
+**feat(ui): display recent searches and popular precomputed architectures**
+
+Show list of previously analyzed models for instant one-click switching.
+
+---
+
