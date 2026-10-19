@@ -2410,3 +2410,10 @@ Create ArchitectureView container component managing 2D tree layout.
 
 ---
 
+## Commit #345 - [2026-10-19 11:17:50]
+**feat(ui): create frontend/src/components/Model3DView.tsx canvas wrapper**
+
+Create Model3DView component wrapping 3D scene with UI overlays.
+
+---
+
