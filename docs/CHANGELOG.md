@@ -2431,3 +2431,10 @@ Create AnalyzeLanding hero page welcoming users and showcasing models.
 
 ---
 
+## Commit #348 - [2026-10-19 13:05:30]
+**feat(ui): render curated model selection cards (LLaMA-3, Stable Diffusion, ViT)**
+
+Provide quick-launch cards for popular vision, text, and diffusion models.
+
+---
+
