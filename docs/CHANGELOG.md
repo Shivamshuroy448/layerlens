@@ -2452,3 +2452,10 @@ Show list of previously analyzed models for instant one-click switching.
 
 ---
 
+## Commit #351 - [2026-10-19 14:48:22]
+**feat(ui): add error alert banner with troubleshooting suggestions**
+
+Display informative error alerts when requested model fails to resolve.
+
+---
+
