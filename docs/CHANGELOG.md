@@ -2424,3 +2424,10 @@ Automatically update camera aspect ratio and canvas size on window resize.
 
 ---
 
+## Commit #347 - [2026-10-19 12:28:45]
+**feat(ui): create frontend/src/components/AnalyzeLanding.tsx hero section**
+
+Create AnalyzeLanding hero page welcoming users and showcasing models.
+
+---
+
