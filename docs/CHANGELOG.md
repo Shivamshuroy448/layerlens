@@ -2417,3 +2417,10 @@ Create Model3DView component wrapping 3D scene with UI overlays.
 
 ---
 
+## Commit #346 - [2026-10-19 11:52:12]
+**feat(ui): handle canvas resize observer and fullscreen responsiveness**
+
+Automatically update camera aspect ratio and canvas size on window resize.
+
+---
+
