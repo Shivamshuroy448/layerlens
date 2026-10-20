@@ -2599,3 +2599,10 @@ Display graceful fallback notice if client machine lacks WebGL support.
 
 ---
 
+## Commit #372 - [2026-10-20 15:21:05]
+**feat(frontend): add fallback banner for browsers without WebGL2 support**
+
+Show informational warning suggesting compatible browsers for WebGL2.
+
+---
+
