@@ -2522,3 +2522,10 @@ Complete 2D hierarchical diagram and model selection landing experience.
 
 ---
 
+## Commit #361 - [2026-10-20 09:12:14]
+**feat(frontend): integrate root frontend/src/App.tsx connecting all views**
+
+Assemble full application in App.tsx connecting landing, 3D, and 2D views.
+
+---
+
