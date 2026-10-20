@@ -2557,3 +2557,10 @@ Add theme state allowing users to toggle between dark and light backgrounds.
 
 ---
 
+## Commit #366 - [2026-10-20 11:52:12]
+**feat(frontend): create frontend/Dockerfile for standalone container build**
+
+Write production Dockerfile building static frontend bundle with Vite.
+
+---
+
