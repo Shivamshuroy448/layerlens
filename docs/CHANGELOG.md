@@ -2543,3 +2543,10 @@ Register key listeners for rapid switching between views and camera reset.
 
 ---
 
+## Commit #364 - [2026-10-20 10:48:10]
+**feat(frontend): implement model URL query parameter support (?model=...)**
+
+Read model query parameter from URL on page load to enable direct sharing.
+
+---
+
