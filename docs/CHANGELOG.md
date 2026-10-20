@@ -2578,3 +2578,10 @@ Enforce Content-Security-Policy and clickjacking prevention headers.
 
 ---
 
+## Commit #369 - [2026-10-20 13:39:15]
+**chore(frontend): test production build using vite build and verify bundle sizes**
+
+Run production build confirming bundle chunks are optimized below 500KB.
+
+---
+
