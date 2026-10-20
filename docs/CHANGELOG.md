@@ -2550,3 +2550,10 @@ Read model query parameter from URL on page load to enable direct sharing.
 
 ---
 
+## Commit #365 - [2026-10-20 11:17:50]
+**feat(frontend): add dark/light theme switch support**
+
+Add theme state allowing users to toggle between dark and light backgrounds.
+
+---
+
