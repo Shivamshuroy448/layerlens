@@ -2648,3 +2648,10 @@ Add stylish header navigation bar with LayerLens logo and GitHub link.
 
 ---
 
+## Commit #379 - [2026-10-20 19:42:35]
+**chore: verify production dist output is cleanly generated**
+
+Verify build directory contains minified JS, CSS, and HTML entrypoint.
+
+---
+
