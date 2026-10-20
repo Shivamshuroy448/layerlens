@@ -2592,3 +2592,10 @@ Dynamically import 3D canvas module to achieve sub-second initial load.
 
 ---
 
+## Commit #371 - [2026-10-20 14:48:22]
+**feat(frontend): add error boundary catching WebGL context creation failures**
+
+Display graceful fallback notice if client machine lacks WebGL support.
+
+---
+
