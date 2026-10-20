@@ -2627,3 +2627,10 @@ Add descriptive aria-labels to all icon buttons and interactive controls.
 
 ---
 
+## Commit #376 - [2026-10-20 17:47:20]
+**chore: test docker-compose up running backend and frontend together**
+
+Test full-stack container orchestration verifying cross-container API proxy.
+
+---
+
