@@ -2571,3 +2571,10 @@ Configure Nginx server with gzip compression and index.html routing fallback.
 
 ---
 
+## Commit #368 - [2026-10-20 13:05:30]
+**feat(frontend): add security headers (CSP, X-Frame-Options) to nginx config**
+
+Enforce Content-Security-Policy and clickjacking prevention headers.
+
+---
+
