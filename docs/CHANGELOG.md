@@ -2585,3 +2585,10 @@ Run production build confirming bundle chunks are optimized below 500KB.
 
 ---
 
+## Commit #370 - [2026-10-20 14:12:40]
+**refactor(frontend): code-split Three.js canvas to optimize initial page load**
+
+Dynamically import 3D canvas module to achieve sub-second initial load.
+
+---
+
