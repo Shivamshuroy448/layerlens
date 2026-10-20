@@ -2613,3 +2613,10 @@ Remove temporary debug logs and unused placeholder images.
 
 ---
 
+## Commit #374 - [2026-10-20 16:34:18]
+**test(frontend): run end-to-end integration test of full App flow**
+
+Verify user can search model, view in 3D, inspect layer, and toggle to 2D.
+
+---
+
