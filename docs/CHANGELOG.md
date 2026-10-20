@@ -2641,3 +2641,10 @@ Provide concise instructions for running backend and frontend concurrently.
 
 ---
 
+## Commit #378 - [2026-10-20 19:02:10]
+**refactor(frontend): polish app header branding and GitHub link pill**
+
+Add stylish header navigation bar with LayerLens logo and GitHub link.
+
+---
+
