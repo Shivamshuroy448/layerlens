@@ -2606,3 +2606,10 @@ Show informational warning suggesting compatible browsers for WebGL2.
 
 ---
 
+## Commit #373 - [2026-10-20 15:58:33]
+**chore(frontend): clean up unused assets and console debug statements**
+
+Remove temporary debug logs and unused placeholder images.
+
+---
+
