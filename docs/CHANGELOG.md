@@ -2634,3 +2634,10 @@ Test full-stack container orchestration verifying cross-container API proxy.
 
 ---
 
+## Commit #377 - [2026-10-20 18:24:55]
+**docs: update main README with local full-stack startup commands**
+
+Provide concise instructions for running backend and frontend concurrently.
+
+---
+
