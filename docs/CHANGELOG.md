@@ -2536,3 +2536,10 @@ Switch cleanly between landing hero, 3D canvas, and 2D architecture tree.
 
 ---
 
+## Commit #363 - [2026-10-20 10:14:35]
+**feat(frontend): add global keyboard shortcuts (1: 3D, 2: 2D, F: focus, R: reset)**
+
+Register key listeners for rapid switching between views and camera reset.
+
+---
+
