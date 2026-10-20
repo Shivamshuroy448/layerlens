@@ -2564,3 +2564,10 @@ Write production Dockerfile building static frontend bundle with Vite.
 
 ---
 
+## Commit #367 - [2026-10-20 12:28:45]
+**feat(frontend): configure frontend/nginx.conf with gzip and SPA routing rewrites**
+
+Configure Nginx server with gzip compression and index.html routing fallback.
+
+---
+
