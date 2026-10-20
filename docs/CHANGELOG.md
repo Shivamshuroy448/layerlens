@@ -2620,3 +2620,10 @@ Verify user can search model, view in 3D, inspect layer, and toggle to 2D.
 
 ---
 
+## Commit #375 - [2026-10-20 17:10:45]
+**refactor(frontend): improve accessibility (a11y) aria-labels on buttons**
+
+Add descriptive aria-labels to all icon buttons and interactive controls.
+
+---
+
