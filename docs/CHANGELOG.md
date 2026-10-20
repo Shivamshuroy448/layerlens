@@ -2529,3 +2529,10 @@ Assemble full application in App.tsx connecting landing, 3D, and 2D views.
 
 ---
 
+## Commit #362 - [2026-10-20 09:41:20]
+**feat(frontend): implement view routing between landing, 3D, and 2D modes**
+
+Switch cleanly between landing hero, 3D canvas, and 2D architecture tree.
+
+---
+
