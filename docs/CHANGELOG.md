@@ -2669,3 +2669,10 @@ Create api/ directory for zero-configuration Vercel serverless deployment.
 
 ---
 
+## Commit #382 - [2026-10-21 09:41:20]
+**feat(api): create api/pyproject.toml and api/requirements.txt**
+
+Define lightweight serverless Python dependencies avoiding heavy PyTorch binaries.
+
+---
+
