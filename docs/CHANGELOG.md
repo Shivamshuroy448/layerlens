@@ -2711,3 +2711,10 @@ Set up vercel.json routing /api/(.*) to Python function and all else to Vite.
 
 ---
 
+## Commit #388 - [2026-10-21 13:05:30]
+**feat(api): implement Diffusers pipeline resolution parsing model_index.json**
+
+Support Stable Diffusion and Flux pipelines by parsing remote model_index.json.
+
+---
+
