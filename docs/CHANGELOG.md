@@ -2746,3 +2746,10 @@ Calculate rank-adapted parameter additions and highlight tuned modules in 3D.
 
 ---
 
+## Commit #393 - [2026-10-21 15:58:33]
+**feat(api): implement direct Hugging Face Hub API queries without PyTorch binary**
+
+Query Hugging Face REST API directly to stay within Vercel 250MB limit.
+
+---
+
