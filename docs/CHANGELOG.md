@@ -2697,3 +2697,10 @@ Bundle precomputed model graph cache directly into serverless API bundle.
 
 ---
 
+## Commit #386 - [2026-10-21 11:52:12]
+**feat(api): implement serverless entrypoint in api/index.py using FastAPI**
+
+Write lightweight FastAPI application handling /api/analyze and /api/graph.
+
+---
+
