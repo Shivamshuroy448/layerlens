@@ -2767,3 +2767,10 @@ Serve cached high-fidelity graphs if external Hugging Face API times out.
 
 ---
 
+## Commit #396 - [2026-10-21 17:47:20]
+**refactor(api): optimize cold-start response time under 150ms**
+
+Minimize import overhead to ensure serverless cold starts complete under 150ms.
+
+---
+
