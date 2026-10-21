@@ -2732,3 +2732,10 @@ Detect and resolve LoRA adapter repositories on Hugging Face.
 
 ---
 
+## Commit #391 - [2026-10-21 14:48:22]
+**feat(api): fetch LoRA adapter_config.json and base model reference**
+
+Read base_model_name_or_path to dynamically resolve parent architecture.
+
+---
+
