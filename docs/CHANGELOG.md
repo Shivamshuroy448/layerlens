@@ -2725,3 +2725,10 @@ Map pipeline components (UNet, VAE, TextEncoder) into visual composite graphs.
 
 ---
 
+## Commit #390 - [2026-10-21 14:12:40]
+**feat(api): implement LoRA adapter resolution for fine-tuned checkpoints**
+
+Detect and resolve LoRA adapter repositories on Hugging Face.
+
+---
+
