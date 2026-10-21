@@ -2774,3 +2774,10 @@ Minimize import overhead to ensure serverless cold starts complete under 150ms.
 
 ---
 
+## Commit #397 - [2026-10-21 18:24:55]
+**test(api): test serverless handler with local uvicorn runner**
+
+Verify serverless api/index.py runs cleanly locally via uvicorn.
+
+---
+
