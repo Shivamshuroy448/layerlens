@@ -2781,3 +2781,10 @@ Verify serverless api/index.py runs cleanly locally via uvicorn.
 
 ---
 
+## Commit #398 - [2026-10-21 19:02:10]
+**test(api): verify Diffusers pipeline graph generation**
+
+Test Stable Diffusion pipeline generates unet, vae, and text encoder subgraphs.
+
+---
+
