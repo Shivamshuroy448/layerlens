@@ -2718,3 +2718,10 @@ Support Stable Diffusion and Flux pipelines by parsing remote model_index.json.
 
 ---
 
+## Commit #389 - [2026-10-21 13:39:15]
+**feat(api): support Stable Diffusion, SDXL, and Flux pipeline submodules**
+
+Map pipeline components (UNet, VAE, TextEncoder) into visual composite graphs.
+
+---
+
