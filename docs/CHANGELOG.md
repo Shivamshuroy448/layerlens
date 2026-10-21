@@ -2690,3 +2690,10 @@ Lock serverless dependency tree with UV lockfile for deterministic builds.
 
 ---
 
+## Commit #385 - [2026-10-21 11:17:50]
+**feat(api): create api/precomputed_models.json for zero-latency lookups**
+
+Bundle precomputed model graph cache directly into serverless API bundle.
+
+---
+
