@@ -2683,3 +2683,10 @@ Specify Python 3.12 runtime version for Vercel serverless execution.
 
 ---
 
+## Commit #384 - [2026-10-21 10:48:10]
+**chore(api): generate api/uv.lock for reproducible serverless deployments**
+
+Lock serverless dependency tree with UV lockfile for deterministic builds.
+
+---
+
