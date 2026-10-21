@@ -2760,3 +2760,10 @@ Achieve sub-50MB deployment bundle with instantaneous cold start times.
 
 ---
 
+## Commit #395 - [2026-10-21 17:10:45]
+**feat(api): add comprehensive fallback to precomputed models on Hub timeout**
+
+Serve cached high-fidelity graphs if external Hugging Face API times out.
+
+---
+
