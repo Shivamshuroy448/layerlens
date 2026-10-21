@@ -2788,3 +2788,10 @@ Test Stable Diffusion pipeline generates unet, vae, and text encoder subgraphs.
 
 ---
 
+## Commit #399 - [2026-10-21 19:42:35]
+**test(api): verify LoRA adapter resolution on real HF repos**
+
+Test renderartist/Classic-Painting-Z-Image-Turbo-LoRA resolves correctly.
+
+---
+
