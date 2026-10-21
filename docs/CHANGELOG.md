@@ -2753,3 +2753,10 @@ Query Hugging Face REST API directly to stay within Vercel 250MB limit.
 
 ---
 
+## Commit #394 - [2026-10-21 16:34:18]
+**feat(api): reduce serverless bundle size below Vercel 250MB limit**
+
+Achieve sub-50MB deployment bundle with instantaneous cold start times.
+
+---
+
