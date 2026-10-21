@@ -2676,3 +2676,10 @@ Define lightweight serverless Python dependencies avoiding heavy PyTorch binarie
 
 ---
 
+## Commit #383 - [2026-10-21 10:14:35]
+**chore(api): pin api/.python-version to 3.12**
+
+Specify Python 3.12 runtime version for Vercel serverless execution.
+
+---
+
