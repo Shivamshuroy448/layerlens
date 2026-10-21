@@ -2662,3 +2662,10 @@ Complete full-stack integration and container packaging verified.
 
 ---
 
+## Commit #381 - [2026-10-21 09:12:14]
+**feat(api): scaffold standalone serverless API under api/ for Vercel**
+
+Create api/ directory for zero-configuration Vercel serverless deployment.
+
+---
+
