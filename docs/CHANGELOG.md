@@ -2739,3 +2739,10 @@ Read base_model_name_or_path to dynamically resolve parent architecture.
 
 ---
 
+## Commit #392 - [2026-10-21 15:21:05]
+**feat(api): annotate LoRA target modules (q_proj, v_proj) with rank and alpha**
+
+Calculate rank-adapted parameter additions and highlight tuned modules in 3D.
+
+---
+
