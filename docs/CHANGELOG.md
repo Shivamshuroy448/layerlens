@@ -2704,3 +2704,10 @@ Write lightweight FastAPI application handling /api/analyze and /api/graph.
 
 ---
 
+## Commit #387 - [2026-10-21 12:28:45]
+**feat(api): configure vercel.json rewrites for seamless frontend and API routing**
+
+Set up vercel.json routing /api/(.*) to Python function and all else to Vite.
+
+---
+
