@@ -2802,3 +2802,10 @@ Complete serverless API deployment architecture ready for cloud hosting.
 
 ---
 
+## Commit #401 - [2026-10-22 09:05:12]
+**feat: update README.md with live Vercel and Hugging Face deployment links**
+
+Add live deployment URLs, feature list, and screenshot guides to README.
+
+---
+
