@@ -2879,3 +2879,10 @@ Increase text stroke and opacity for crisp readability against 3D glow.
 
 ---
 
+## Commit #412 - [2026-10-22 13:03:52]
+**feat: add live status badge in UI header showing connected backend**
+
+Display real-time connection status pill in application header.
+
+---
+
