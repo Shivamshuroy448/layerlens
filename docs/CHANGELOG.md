@@ -2872,3 +2872,10 @@ Execute npm run build confirming zero TypeScript errors and optimal bundles.
 
 ---
 
+## Commit #411 - [2026-10-22 12:42:15]
+**refactor: polish visual contrast on layer node text labels**
+
+Increase text stroke and opacity for crisp readability against 3D glow.
+
+---
+
