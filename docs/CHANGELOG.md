@@ -2928,3 +2928,10 @@ Tag version 2.0.0 representing complete redesign and serverless release.
 
 ---
 
+## Commit #419 - [2026-10-22 15:38:45]
+**release: publish LayerLens v2.0 with full Hugging Face and Vercel support**
+
+Official v2.0 production release live on Vercel and GitHub.
+
+---
+
