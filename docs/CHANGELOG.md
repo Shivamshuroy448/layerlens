@@ -2886,3 +2886,10 @@ Display real-time connection status pill in application header.
 
 ---
 
+## Commit #413 - [2026-10-22 13:25:18]
+**refactor: improve error reporting for private or non-existent HF repos**
+
+Present clear explanatory modal when a requested repository is gated or missing.
+
+---
+
