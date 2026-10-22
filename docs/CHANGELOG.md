@@ -2823,3 +2823,10 @@ List verified models including BERT, LLaMA, ResNet, Stable Diffusion, and LoRAs.
 
 ---
 
+## Commit #404 - [2026-10-22 10:10:42]
+**feat: add performance benchmark documentation for 3D layout rendering**
+
+Document rendering benchmarks showing smooth 60fps across 100+ layer graphs.
+
+---
+
