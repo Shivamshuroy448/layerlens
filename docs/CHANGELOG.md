@@ -2816,3 +2816,10 @@ Document camera keybindings, inspection controls, and 2D view shortcuts.
 
 ---
 
+## Commit #403 - [2026-10-22 09:48:15]
+**docs: document supported architectures (CNNs, Transformers, Diffusers, LoRA)**
+
+List verified models including BERT, LLaMA, ResNet, Stable Diffusion, and LoRAs.
+
+---
+
