@@ -2844,3 +2844,10 @@ Clamp window.devicePixelRatio to 2 to prevent GPU fill-rate bottlenecks.
 
 ---
 
+## Commit #407 - [2026-10-22 11:15:22]
+**fix: handle window resize event smoothly in ModelScene canvas**
+
+Ensure canvas bounds and camera projection matrix update cleanly on resize.
+
+---
+
