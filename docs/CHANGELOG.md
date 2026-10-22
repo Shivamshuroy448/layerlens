@@ -2809,3 +2809,10 @@ Add live deployment URLs, feature list, and screenshot guides to README.
 
 ---
 
+## Commit #402 - [2026-10-22 09:27:34]
+**docs: add interactive feature walkthrough and keyboard shortcut table**
+
+Document camera keybindings, inspection controls, and 2D view shortcuts.
+
+---
+
