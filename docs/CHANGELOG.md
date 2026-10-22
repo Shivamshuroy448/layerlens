@@ -2830,3 +2830,10 @@ Document rendering benchmarks showing smooth 60fps across 100+ layer graphs.
 
 ---
 
+## Commit #405 - [2026-10-22 10:31:18]
+**refactor: optimize initial precomputed graph payload size**
+
+Compress JSON keys in precomputed catalog to minimize initial transfer bytes.
+
+---
+
