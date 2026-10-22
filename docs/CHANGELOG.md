@@ -2851,3 +2851,10 @@ Ensure canvas bounds and camera projection matrix update cleanly on resize.
 
 ---
 
+## Commit #408 - [2026-10-22 11:36:45]
+**docs: update API documentation with endpoint request and response examples**
+
+Provide curl examples and JSON payload samples for all public endpoints.
+
+---
+
