@@ -2837,3 +2837,10 @@ Compress JSON keys in precomputed catalog to minimize initial transfer bytes.
 
 ---
 
+## Commit #406 - [2026-10-22 10:53:50]
+**perf: tune Three.js pixel ratio scaling on high-DPI retina screens**
+
+Clamp window.devicePixelRatio to 2 to prevent GPU fill-rate bottlenecks.
+
+---
+
